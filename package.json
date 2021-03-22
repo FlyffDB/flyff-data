@@ -1,0 +1,31 @@
+{
+  "name": "flyff-data",
+  "version": "1.0.0",
+  "description": "Data mined from Flyff Project M",
+  "main": "index.js",
+  "scripts": {
+    "import": "babel-node import",
+    "import-classes": "babel-node scripts/import-classes",
+    "import-npcs": "babel-node scripts/import-npcs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlyffDB/flyff-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlyffDB/flyff-data/issues"
+  },
+  "homepage": "https://github.com/FlyffDB/flyff-data#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/node": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "axios": "^0.21.1",
+    "axios-rate-limit": "^1.3.0",
+    "dotenv": "^8.2.0",
+    "lowdb": "^1.0.0"
+  }
+}
