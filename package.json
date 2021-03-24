@@ -1,5 +1,5 @@
 {
-  "name": "flyff-data",
+  "name": "@flyffdb/flyff-data",
   "version": "1.0.0",
   "description": "Data mined from Flyff Project M",
   "main": "index.js",
