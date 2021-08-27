@@ -2,7 +2,7 @@ const low = require('lowdb')
 const FileSync = require('lowdb/adapters/FileSync')
 import { getApi } from '../lib';
 
-const adapter = new FileSync('db.json')
+const adapter = new FileSync('data/class.json')
 const db = low(adapter)
 
 const importClasses = async () => {
@@ -14,7 +14,7 @@ const importClasses = async () => {
   const { data: classes } = await getApi(`class/${classIds}`);
 
   db.set('classes', classes).write();
-  console.log(`Imported ${classes.length} class images successfully`);
+  console.log(`Imported ${classes.length} classes successfully`);
 }
 
 // If called directly we just run the import
