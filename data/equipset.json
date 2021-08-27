@@ -1,0 +1,5748 @@
+{
+  "equipsets": [
+    {
+      "id": 30,
+      "name": {
+        "en": "Ales Set",
+        "fr": "Tenue Illustre",
+        "kr": "알렉트(여) 세트"
+      },
+      "parts": [
+        3272,
+        4351,
+        822,
+        5969
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": {
+        "en": "Hyper Set",
+        "fr": "Tenue Horizon",
+        "kr": "크루저(여) 세트"
+      },
+      "parts": [
+        7719,
+        4115,
+        1818,
+        2204
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "yoyoattack",
+            "add": 75,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "bowattack",
+            "add": 75,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": {
+        "en": "Mekatro Set",
+        "fr": "Tenue Epique",
+        "kr": "메카트로(남) 세트"
+      },
+      "parts": [
+        8428,
+        5264,
+        3966,
+        9626
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 35,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": {
+        "en": "Asren Set",
+        "fr": "Tenue Astrale",
+        "kr": "아스렌(남) 세트"
+      },
+      "parts": [
+        7486,
+        5587,
+        9009,
+        7063
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 30,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 29,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "bowattack",
+            "add": 100,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "name": {
+        "en": "Parmil Set",
+        "fr": "Tenue Parmil",
+        "kr": "파밀(남) 세트"
+      },
+      "parts": [
+        7939,
+        361,
+        7357,
+        4114
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 150,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "speed",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 23,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 50,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 3,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "name": {
+        "en": "Knighz Set",
+        "fr": "Tenue Mythique",
+        "kr": "나이어트(여) 세트"
+      },
+      "parts": [
+        9982,
+        5644,
+        5149,
+        4171
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "name": {
+        "en": "Neclus Set",
+        "fr": "Tenue Epique",
+        "kr": "네이빌(여) 세트"
+      },
+      "parts": [
+        901,
+        6765,
+        780,
+        1090
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 30,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "healing",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "name": {
+        "en": "Neition Set",
+        "fr": "Tenue Epique",
+        "kr": "네이스(여) 세트"
+      },
+      "parts": [
+        6275,
+        3609,
+        8459,
+        7946
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 40,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 387,
+      "name": {
+        "en": "Dest Set",
+        "fr": "Tenue Astrale",
+        "kr": "데이스트(여) 세트"
+      },
+      "parts": [
+        8579,
+        3526,
+        3801,
+        3625
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "dex",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 29,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 26,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 607,
+      "name": {
+        "en": "Einy Set",
+        "fr": "Tenue Illustre",
+        "kr": "아이니(남) 세트"
+      },
+      "parts": [
+        1899,
+        4743,
+        6308,
+        7465
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 29,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 26,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 809,
+      "name": {
+        "en": "Rodey Set",
+        "fr": "Tenue Epique",
+        "kr": "로디(여)이 세트"
+      },
+      "parts": [
+        3479,
+        2889,
+        362,
+        7230
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 40,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 862,
+      "name": {
+        "en": "Tyrent Set",
+        "fr": "Tenue Epique",
+        "kr": "타이런트(남) 세트"
+      },
+      "parts": [
+        8430,
+        7181,
+        4421,
+        3514
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 40,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 982,
+      "name": {
+        "en": "Blain Set",
+        "fr": "Tenue Mythique",
+        "kr": "블레인(남) 세트"
+      },
+      "parts": [
+        3949,
+        8315,
+        9081,
+        4320
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 1104,
+      "name": {
+        "en": "Myurian Set",
+        "fr": "Tenue Illustre",
+        "kr": "뮤란(여) 세트"
+      },
+      "parts": [
+        6776,
+        6408,
+        5417,
+        4553
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 33,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 1210,
+      "name": {
+        "en": "Akent Set",
+        "fr": "Tenue Astrale",
+        "kr": "아켄트(남) 세트"
+      },
+      "parts": [
+        8920,
+        1880,
+        6979,
+        7235
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 1263,
+      "name": {
+        "en": "Sorain Set",
+        "fr": "Tenue Sorain",
+        "kr": "소레인(남) 세트"
+      },
+      "parts": [
+        4621,
+        6723,
+        7475,
+        6947
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "int",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 17,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 1454,
+      "name": {
+        "en": "Restron Set",
+        "fr": "Tenue Restrorn",
+        "kr": "레브론(여) 세트"
+      },
+      "parts": [
+        1204,
+        1774,
+        1319,
+        838
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 1492,
+      "name": {
+        "en": "Rimyth Set",
+        "fr": "Tenue Mythique",
+        "kr": "리미스(남) 세트"
+      },
+      "parts": [
+        3257,
+        508,
+        2023,
+        1987
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 1582,
+      "name": {
+        "en": "Hanes Set",
+        "fr": "Tenue Epique",
+        "kr": "하네스(남) 세트"
+      },
+      "parts": [
+        7039,
+        8994,
+        6355,
+        456
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 29,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 25,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 1738,
+      "name": {
+        "en": "Rescorn Set",
+        "fr": "Tenue Ryscorn",
+        "kr": "리콘(여) 세트"
+      },
+      "parts": [
+        794,
+        3909,
+        1966,
+        562
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 1788,
+      "name": {
+        "en": "Shupon Set",
+        "fr": "Tenue Astrale",
+        "kr": "슈폰(남) 세트"
+      },
+      "parts": [
+        8864,
+        3658,
+        7560,
+        9559
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "healing",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "maxmp",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 1814,
+      "name": {
+        "en": "Wees Set",
+        "fr": "Tenue Astrale",
+        "kr": "위스(남) 헬멧"
+      },
+      "parts": [
+        4342,
+        6164,
+        5335,
+        3976
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 25,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 25,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 1822,
+      "name": {
+        "en": "Billst Set",
+        "fr": "Tenue Mythique",
+        "kr": "빌스트(남) 세트"
+      },
+      "parts": [
+        4601,
+        6111,
+        7512,
+        1831
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 2244,
+      "name": {
+        "en": "Shurand Set",
+        "fr": "Tenue Shurent",
+        "kr": "슈란드(남) 세트"
+      },
+      "parts": [
+        3067,
+        4824,
+        7061,
+        3005
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "hprestoration",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 26,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 19,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 2273,
+      "name": {
+        "en": "Wedge Set",
+        "fr": "Tenue Beltias",
+        "kr": "웨지(남) 세트"
+      },
+      "parts": [
+        3659,
+        4632,
+        2410,
+        1585
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedfpconsumption",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 19,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 19,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 7,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 2333,
+      "name": {
+        "en": "Virain Set",
+        "fr": "Tenue Mythique",
+        "kr": "블레인(여) 세트"
+      },
+      "parts": [
+        5361,
+        1325,
+        9138,
+        8777
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 2373,
+      "name": {
+        "en": "Misty Set",
+        "fr": "Tenue Mysty",
+        "kr": "테바(여) 세트"
+      },
+      "parts": [
+        4463,
+        6051,
+        4834,
+        3152
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "int",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 19,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 18,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 2566,
+      "name": {
+        "en": "Jesis Set",
+        "fr": "Tenue Mythique",
+        "kr": "제시스(남) 세트"
+      },
+      "parts": [
+        1398,
+        8138,
+        5390,
+        5125
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 2763,
+      "name": {
+        "en": "Curus Set",
+        "fr": "Tenue Curus",
+        "kr": "사딘(여) 세트"
+      },
+      "parts": [
+        653,
+        9034,
+        5489,
+        4684
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedfpconsumption",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 18,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 15,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 2907,
+      "name": {
+        "en": "Paxt Set",
+        "fr": "Tenue Illustre",
+        "kr": "팩트(여) 세트"
+      },
+      "parts": [
+        4809,
+        2049,
+        2579,
+        5889
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "sta",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 2914,
+      "name": {
+        "en": "Roshel Set",
+        "fr": "Tenue Illustre",
+        "kr": "로팡(여) 세트"
+      },
+      "parts": [
+        5592,
+        2051,
+        6399,
+        5975
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 25,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 3167,
+      "name": {
+        "en": "Genas Set",
+        "fr": "Tenue Astrale",
+        "kr": "지니언(여) 세트"
+      },
+      "parts": [
+        7497,
+        9582,
+        7201,
+        1945
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "reflectdamage",
+            "add": 25,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "sta",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 3178,
+      "name": {
+        "en": "Neis Set",
+        "fr": "Tenue Epique",
+        "kr": "네이스(남) 세트"
+      },
+      "parts": [
+        8640,
+        7022,
+        6786,
+        7633
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 40,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 3354,
+      "name": {
+        "en": "Cruiser Set",
+        "fr": "Tenue Cruiser",
+        "kr": "크루저(남) 세트"
+      },
+      "parts": [
+        4838,
+        1135,
+        9775,
+        7846
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "yoyoattack",
+            "add": 75,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "bowattack",
+            "add": 75,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 3488,
+      "name": {
+        "en": "Oska Set",
+        "fr": "Tenue Illustre",
+        "kr": "오스카(남) 세트"
+      },
+      "parts": [
+        5606,
+        213,
+        5853,
+        1583
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 29,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 3679,
+      "name": {
+        "en": "Extro Set",
+        "fr": "Tenue Epique",
+        "kr": "엑트로(남) 세트"
+      },
+      "parts": [
+        1632,
+        6944,
+        2944,
+        5909
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 25,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 24,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 24,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 3928,
+      "name": {
+        "en": "Weesian Set",
+        "fr": "Tenue Astrale",
+        "kr": "위스(여) 헬멧"
+      },
+      "parts": [
+        4886,
+        1606,
+        3046,
+        2390
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 25,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 25,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4173,
+      "name": {
+        "en": "Anoos Set",
+        "fr": "Tenue Arkan",
+        "kr": "아에스(여) 세트"
+      },
+      "parts": [
+        619,
+        1911,
+        4417,
+        4543
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 18,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4186,
+      "name": {
+        "en": "Dayst Set",
+        "fr": "Tenue Astrale",
+        "kr": "데이스트(남) 세트"
+      },
+      "parts": [
+        5692,
+        1528,
+        7653,
+        4385
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "dex",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 29,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 26,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4242,
+      "name": {
+        "en": "Sayram Set",
+        "fr": "Tenue Sayram",
+        "kr": "탈린(여) 세트"
+      },
+      "parts": [
+        6651,
+        5769,
+        3782,
+        788
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 7,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 19,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4255,
+      "name": {
+        "en": "Psykon Set",
+        "fr": "Tenue Mythique",
+        "kr": "사이컨(남) 세트"
+      },
+      "parts": [
+        5167,
+        529,
+        6420,
+        149
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 4267,
+      "name": {
+        "en": "Miracle Set",
+        "fr": "Tenue Mirage",
+        "kr": "레이어드(여) 세트"
+      },
+      "parts": [
+        2152,
+        2018,
+        6359,
+        8238
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "dex",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 30,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4364,
+      "name": {
+        "en": "Leaf Set",
+        "fr": "Tenue Folio",
+        "kr": "파밀(여) 세트"
+      },
+      "parts": [
+        9301,
+        9309,
+        9605,
+        7293
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 150,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "speed",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 23,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 50,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 3,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4472,
+      "name": {
+        "en": "Pact Set",
+        "fr": "Tenue Illustre",
+        "kr": "팩트(남) 세트"
+      },
+      "parts": [
+        9969,
+        3884,
+        2443,
+        4840
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "sta",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4509,
+      "name": {
+        "en": "Rasra Set",
+        "fr": "Tenue Astrale",
+        "kr": "리스트라(여) 세트"
+      },
+      "parts": [
+        2295,
+        5096,
+        2638,
+        1480
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 30,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "str",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4520,
+      "name": {
+        "en": "Shabel Set",
+        "fr": "Tenue Epique",
+        "kr": "샤벨(남) 세트"
+      },
+      "parts": [
+        2067,
+        9666,
+        279,
+        2342
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "speed",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4561,
+      "name": {
+        "en": "Navil Set",
+        "fr": "Tenue Epique",
+        "kr": "네이빌(남) 세트"
+      },
+      "parts": [
+        118,
+        3032,
+        5727,
+        1850
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 30,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "healing",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4609,
+      "name": {
+        "en": "Ellien Set",
+        "fr": "Tenue Astrale",
+        "kr": "엘더(여) 세트"
+      },
+      "parts": [
+        2011,
+        8487,
+        5817,
+        6837
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "int",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4647,
+      "name": {
+        "en": "Rody Set",
+        "fr": "Tenue Epique",
+        "kr": "로디(남) 세트"
+      },
+      "parts": [
+        7937,
+        831,
+        8800,
+        4340
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 40,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4718,
+      "name": {
+        "en": "Billporon Set",
+        "fr": "Tenue Mythique",
+        "kr": "빌스트(여) 세트"
+      },
+      "parts": [
+        6004,
+        7248,
+        5211,
+        341
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 4826,
+      "name": {
+        "en": "Teba Set",
+        "fr": "Tenue Kadjar",
+        "kr": "테바(남) 세트"
+      },
+      "parts": [
+        8757,
+        6442,
+        1260,
+        4230
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "int",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 19,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 18,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 4994,
+      "name": {
+        "en": "Ropang Set",
+        "fr": "Tenue Illustre",
+        "kr": "로팡(남) 세트"
+      },
+      "parts": [
+        9425,
+        9649,
+        6690,
+        7281
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 25,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5027,
+      "name": {
+        "en": "Flury Set",
+        "fr": "Tenue Fury",
+        "kr": "웨지(여) 세트"
+      },
+      "parts": [
+        9861,
+        9381,
+        5515,
+        5651
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedfpconsumption",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 19,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 19,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 7,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5036,
+      "name": {
+        "en": "Knighert Set",
+        "fr": "Tenue Mythique",
+        "kr": "나이어트(남) 세트"
+      },
+      "parts": [
+        6431,
+        5996,
+        7543,
+        4084
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 5104,
+      "name": {
+        "en": "Warpon Set",
+        "fr": "Tenue Illustre",
+        "kr": "워폰(남) 세트"
+      },
+      "parts": [
+        5526,
+        906,
+        8090,
+        2807
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 25,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "sta",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 25,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5128,
+      "name": {
+        "en": "Genian Set",
+        "fr": "Tenue Astrale",
+        "kr": "지니언(남) 세트"
+      },
+      "parts": [
+        701,
+        2436,
+        1309,
+        5660
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "reflectdamage",
+            "add": 25,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "sta",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5150,
+      "name": {
+        "en": "Ellis Set",
+        "fr": "Tenue Mythique",
+        "kr": "엘리스(남) 세트"
+      },
+      "parts": [
+        117,
+        208,
+        5676,
+        9757
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 5159,
+      "name": {
+        "en": "Rebron Set",
+        "fr": "Tenue Rebrorn",
+        "kr": "레브론(남) 세트"
+      },
+      "parts": [
+        7104,
+        5176,
+        2534,
+        3119
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5183,
+      "name": {
+        "en": "Okas Set",
+        "fr": "Tenue Illustre",
+        "kr": "오스카(여) 세트"
+      },
+      "parts": [
+        2407,
+        3939,
+        8514,
+        4348
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 29,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5271,
+      "name": {
+        "en": "Flower Set",
+        "fr": "Tenue Florale",
+        "kr": "페탈(여) 세트"
+      },
+      "parts": [
+        8128,
+        721,
+        8647,
+        7595
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedfpconsumption",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 17,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5278,
+      "name": {
+        "en": "Aken Set",
+        "fr": "Tenue Astrale",
+        "kr": "아켄트(여) 세트"
+      },
+      "parts": [
+        8132,
+        590,
+        3466,
+        2526
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5303,
+      "name": {
+        "en": "Layered Set",
+        "fr": "Tenue Superposition",
+        "kr": "레이어드(남) 세트"
+      },
+      "parts": [
+        6623,
+        9035,
+        7161,
+        3
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "dex",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 30,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5376,
+      "name": {
+        "en": "Shurian Set",
+        "fr": "Tenue Epique",
+        "kr": "샤벨(여) 세트"
+      },
+      "parts": [
+        8150,
+        186,
+        9361,
+        3995
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "speed",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5631,
+      "name": {
+        "en": "Stitch Set",
+        "fr": "Tenue Sith",
+        "kr": "팡그릴(여) 세트"
+      },
+      "parts": [
+        9099,
+        9060,
+        6668,
+        7904
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "str",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 23,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "decreasedfpconsumption",
+            "add": 30,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5640,
+      "name": {
+        "en": "Psyuniper Set",
+        "fr": "Tenue Mythique",
+        "kr": "사이컨(여) 세트"
+      },
+      "parts": [
+        511,
+        2535,
+        722,
+        8651
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 5670,
+      "name": {
+        "en": "Comet Set",
+        "fr": "Tenue Cosmic",
+        "kr": "카미트(남) 세트"
+      },
+      "parts": [
+        1534,
+        3454,
+        1184,
+        8379
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "str",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 33,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5766,
+      "name": {
+        "en": "Panggril Set",
+        "fr": "Tenue Pangril",
+        "kr": "팡그릴(남) 세트"
+      },
+      "parts": [
+        6223,
+        4857,
+        2332,
+        2960
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "str",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 23,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "decreasedfpconsumption",
+            "add": 30,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5779,
+      "name": {
+        "en": "Extro Set",
+        "fr": "Tenue Epique",
+        "kr": "엑트로(남) 세트"
+      },
+      "parts": [
+        7298,
+        5704,
+        9760,
+        7781
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 25,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 24,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 24,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5873,
+      "name": {
+        "en": "Ahes Set",
+        "fr": "Tenue Ahes",
+        "kr": "아에스(남) 세트"
+      },
+      "parts": [
+        7881,
+        2248,
+        2473,
+        2154
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 18,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 5978,
+      "name": {
+        "en": "Slepint Set",
+        "fr": "Tenue Slepin",
+        "kr": "슬레핀(남) 세트"
+      },
+      "parts": [
+        9117,
+        8450,
+        2825,
+        8804
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedfpconsumption",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 16,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 6380,
+      "name": {
+        "en": "Warspon Set",
+        "fr": "Tenue Illustre",
+        "kr": "워폰(여) 세트"
+      },
+      "parts": [
+        4097,
+        2516,
+        3358,
+        2073
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 25,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "sta",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 25,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 6533,
+      "name": {
+        "en": "Remingster Set",
+        "fr": "Tenue Mythique",
+        "kr": "리미스(여)터 세트"
+      },
+      "parts": [
+        4879,
+        5868,
+        5558,
+        824
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 6554,
+      "name": {
+        "en": "Petal Set",
+        "fr": "Tenue Fortis",
+        "kr": "페탈(남) 세트"
+      },
+      "parts": [
+        8208,
+        8891,
+        8624,
+        8406
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedfpconsumption",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 17,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 6583,
+      "name": {
+        "en": "Recorn Set",
+        "fr": "Tenue Recorn",
+        "kr": "리콘(남) 세트"
+      },
+      "parts": [
+        9921,
+        1577,
+        1650,
+        7490
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 6661,
+      "name": {
+        "en": "Niz Set",
+        "fr": "Tenue Niz",
+        "kr": "시어(여) 세트"
+      },
+      "parts": [
+        9555,
+        4271,
+        9176,
+        1080
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "int",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 18,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "maxmp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 14,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 6699,
+      "name": {
+        "en": "Ranerz Set",
+        "fr": "Tenue Mythique",
+        "kr": "레너즈(남) 세트"
+      },
+      "parts": [
+        2445,
+        6852,
+        4244,
+        9255
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 6968,
+      "name": {
+        "en": "Merr Set",
+        "fr": "Tenue Mera",
+        "kr": "소레인(여) 세트"
+      },
+      "parts": [
+        6491,
+        3799,
+        5763,
+        1166
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "int",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 17,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 7062,
+      "name": {
+        "en": "Ellder Set",
+        "fr": "Tenue Astrale",
+        "kr": "엘더(남) 세트"
+      },
+      "parts": [
+        5378,
+        7071,
+        4432,
+        87
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "int",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 7114,
+      "name": {
+        "en": "Raze Set",
+        "fr": "Tenue Mythique",
+        "kr": "레너즈(여) 세트"
+      },
+      "parts": [
+        1968,
+        2492,
+        8742,
+        4051
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 7192,
+      "name": {
+        "en": "Katria Set",
+        "fr": "Tenue Illustre",
+        "kr": "카트리아(남) 세트"
+      },
+      "parts": [
+        2479,
+        9038,
+        8209,
+        4440
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 7279,
+      "name": {
+        "en": "Jenes Set",
+        "fr": "Tenue Mythique",
+        "kr": "제시스(여) 세트"
+      },
+      "parts": [
+        2195,
+        8766,
+        4395,
+        3025
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 7280,
+      "name": {
+        "en": "Myuran Set",
+        "fr": "Tenue Illustre",
+        "kr": "뮤란(남) 세트"
+      },
+      "parts": [
+        439,
+        4030,
+        4950,
+        7419
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 33,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 7438,
+      "name": {
+        "en": "Tight Set",
+        "fr": "Tenue Epique",
+        "kr": "타이런트(여) 세트"
+      },
+      "parts": [
+        1548,
+        800,
+        5108,
+        674
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 40,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 7621,
+      "name": {
+        "en": "Stinger Set",
+        "fr": "Tenue Piquante",
+        "kr": "슬레핀(여) 세트"
+      },
+      "parts": [
+        2423,
+        1946,
+        4240,
+        7762
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedfpconsumption",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 16,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 7697,
+      "name": {
+        "en": "Akan Set",
+        "fr": "Tenue Illustre",
+        "kr": "아이니(여) 세트"
+      },
+      "parts": [
+        4237,
+        2849,
+        4730,
+        9155
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 29,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 26,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 8188,
+      "name": {
+        "en": "Shuran Set",
+        "fr": "Tenue Shuran",
+        "kr": "슈란드(여) 세트"
+      },
+      "parts": [
+        2875,
+        2905,
+        3221,
+        4216
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "hprestoration",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 26,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 19,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 8190,
+      "name": {
+        "en": "Seer Set",
+        "fr": "Tenue Seer",
+        "kr": "시어(남) 세트"
+      },
+      "parts": [
+        8578,
+        5918,
+        1940,
+        6783
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "int",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 18,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "maxmp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 14,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 8444,
+      "name": {
+        "en": "Ahren Set",
+        "fr": "Tenue Astrale",
+        "kr": "아스렌(여) 세트"
+      },
+      "parts": [
+        1435,
+        4787,
+        1653,
+        5820
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 30,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 29,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "bowattack",
+            "add": 100,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 8458,
+      "name": {
+        "en": "Talin Set",
+        "fr": "Tenue Talin",
+        "kr": "탈린(남) 세트"
+      },
+      "parts": [
+        3447,
+        6801,
+        8372,
+        2010
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 7,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 19,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 8523,
+      "name": {
+        "en": "Ellsis Set",
+        "fr": "Tenue Mythique",
+        "kr": "엘리스(여) 세트"
+      },
+      "parts": [
+        5810,
+        2823,
+        3926,
+        2316
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "pvpdamagereduction",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "block",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 5,
+            "rate": true
+          }
+        }
+      ]
+    },
+    {
+      "id": 8927,
+      "name": {
+        "en": "Sardine Set",
+        "fr": "Tenue Sardin",
+        "kr": "사딘(남) 세트"
+      },
+      "parts": [
+        7899,
+        9944,
+        9820,
+        9070
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 5,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedfpconsumption",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 18,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 15,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 9012,
+      "name": {
+        "en": "Kanarin Set",
+        "fr": "Tenue Illustre",
+        "kr": "카트리아(여) 세트"
+      },
+      "parts": [
+        4404,
+        2938,
+        8847,
+        8080
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "maxhp",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "skilldamage",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 9119,
+      "name": {
+        "en": "Restra Set",
+        "fr": "Tenue Astrale",
+        "kr": "리스트라(남) 세트"
+      },
+      "parts": [
+        2604,
+        1258,
+        5456,
+        251
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticaldamage",
+            "add": 30,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "str",
+            "add": 10,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 28,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 9241,
+      "name": {
+        "en": "Haganes Set",
+        "fr": "Tenue Epique",
+        "kr": "하네스(여) 세트"
+      },
+      "parts": [
+        9900,
+        759,
+        5904,
+        372
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 29,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "str",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 25,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 9318,
+      "name": {
+        "en": "Mekaron Set",
+        "fr": "Tenue Epique",
+        "kr": "메카트로(여) 세트"
+      },
+      "parts": [
+        4645,
+        9594,
+        7078,
+        7696
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "decreasedmpconsumption",
+            "add": 35,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "int",
+            "add": 15,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 9388,
+      "name": {
+        "en": "Shurian Set",
+        "fr": "Tenue Astrale",
+        "kr": "샤벨(여) 세트"
+      },
+      "parts": [
+        5588,
+        3503,
+        9448,
+        9447
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "decreasedcastingtime",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "healing",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 27,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "maxmp",
+            "add": 20,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 20,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 9677,
+      "name": {
+        "en": "Alext Set",
+        "fr": "Tenue Illustre",
+        "kr": "알렉트(남) 세트"
+      },
+      "parts": [
+        3585,
+        5322,
+        5564,
+        2498
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "criticalchance",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 15,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "dex",
+            "add": 7,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 21,
+            "rate": false
+          }
+        }
+      ]
+    },
+    {
+      "id": 9996,
+      "name": {
+        "en": "Cylos Set",
+        "fr": "Tenue Cylos",
+        "kr": "카미트(여) 세트"
+      },
+      "parts": [
+        896,
+        1619,
+        9525,
+        8451
+      ],
+      "bonus": [
+        {
+          "equipped": 4,
+          "ability": {
+            "parameter": "attackspeed",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "str",
+            "add": 5,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 3,
+          "ability": {
+            "parameter": "def",
+            "add": 33,
+            "rate": false
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "hitrate",
+            "add": 10,
+            "rate": true
+          }
+        },
+        {
+          "equipped": 2,
+          "ability": {
+            "parameter": "def",
+            "add": 22,
+            "rate": false
+          }
+        }
+      ]
+    }
+  ]
+}
