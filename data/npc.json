@@ -1,0 +1,7602 @@
+{
+  "npcs": [
+    {
+      "id": 29,
+      "name": {
+        "en": "Mikyel",
+        "fr": "Mikyel",
+        "kr": "미키엘"
+      },
+      "place": "questoffice",
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7129.189,
+          "y": 99.95781,
+          "z": 3252.483
+        }
+      ],
+      "image": "agent.png"
+    },
+    {
+      "id": 47,
+      "name": {
+        "en": "Pinedryad",
+        "fr": "Dryade du Pin",
+        "kr": "가을이벤트NPC04"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 54,
+      "name": {
+        "en": "[Blade Guardian] Sencyrit",
+        "fr": "[Gardienne des Assassins] Sencyrit",
+        "kr": "[블레이드 수호자]센시리트"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3344.047,
+          "y": 146.9522,
+          "z": 2056.097
+        }
+      ],
+      "image": "guard01.png"
+    },
+    {
+      "id": 161,
+      "name": {
+        "en": "Furan",
+        "fr": "Furan",
+        "kr": "후란"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 193,
+      "name": {
+        "en": "[Arena Store] Deek"
+      },
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Food",
+            "fr": "Aliments",
+            "kr": "음식점"
+          },
+          "items": [
+            5325,
+            9449,
+            2940,
+            5085,
+            5443,
+            542,
+            4388,
+            1124,
+            4493,
+            4683
+          ]
+        },
+        {
+          "name": {
+            "en": "Poster",
+            "fr": "Acolyte",
+            "kr": "포스터"
+          },
+          "items": [
+            3907,
+            5869
+          ]
+        },
+        {
+          "name": {
+            "en": "Magic Tools",
+            "fr": "Objets",
+            "kr": "마법용품"
+          },
+          "items": [
+            7809,
+            8840,
+            3868,
+            5933,
+            4758,
+            4700,
+            2476,
+            6443,
+            8367,
+            7153,
+            942,
+            4069,
+            3343,
+            7116
+          ]
+        },
+        {
+          "name": {
+            "en": "Arrow",
+            "fr": "Flèches",
+            "kr": "화살"
+          },
+          "items": [
+            4586
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8500.282,
+          "y": 98.98723,
+          "z": 3531.548
+        }
+      ],
+      "image": "lui.png"
+    },
+    {
+      "id": 233,
+      "name": {
+        "en": "[Elementor Guardian] Wendien",
+        "fr": "[Gardienne des Elémentalistes] Wendien",
+        "kr": "[엘리멘터 수호자]웬디엔"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3348.821,
+          "y": 146.9274,
+          "z": 2058.485
+        }
+      ],
+      "image": "guard01.png"
+    },
+    {
+      "id": 237,
+      "name": {
+        "en": "Rudvihil",
+        "fr": "Rudvihil",
+        "kr": "루드비힐"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7219.015,
+          "y": 108.6311,
+          "z": 3190.55
+        }
+      ],
+      "image": "almani.png"
+    },
+    {
+      "id": 265,
+      "name": {
+        "en": "Achaben",
+        "fr": "Achaben",
+        "kr": "아카벤"
+      },
+      "place": "generalstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Collector",
+            "fr": "Pilules",
+            "kr": "알약"
+          },
+          "items": [
+            1809,
+            3611,
+            7718,
+            6502
+          ]
+        },
+        {
+          "name": {
+            "en": "Poster",
+            "fr": "Acolytes",
+            "kr": "포스터"
+          },
+          "items": [
+            3907,
+            5869
+          ]
+        },
+        {
+          "name": {
+            "en": "Magic Tools",
+            "fr": "Objets",
+            "kr": "마법용품"
+          },
+          "items": [
+            7809,
+            8840,
+            3868,
+            5933,
+            4758,
+            4700,
+            3872,
+            2476,
+            6443,
+            8367,
+            7153,
+            942,
+            4069,
+            4370,
+            3343,
+            7116,
+            3574
+          ]
+        },
+        {
+          "name": {
+            "en": "Arrow",
+            "fr": "Flèches",
+            "kr": "화살"
+          },
+          "items": [
+            4586
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3879.864,
+          "y": 59,
+          "z": 4458.07
+        }
+      ],
+      "image": "achaben.png"
+    },
+    {
+      "id": 286,
+      "name": {
+        "en": "[High-Dwarpet] Goripeg",
+        "fr": "[Grand Dwarpet] Goripeg",
+        "kr": "[하이-드워펫]고리펙"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6991.909,
+          "y": 124.6035,
+          "z": 3891.937
+        }
+      ],
+      "image": "dwarpet.png"
+    },
+    {
+      "id": 293,
+      "name": {
+        "en": "Dr. Estern",
+        "fr": "Dr. Estern",
+        "kr": "[Dr.]이스턴"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7940.799,
+          "y": 159.0761,
+          "z": 2405.927
+        }
+      ],
+      "image": "rhine.png"
+    },
+    {
+      "id": 295,
+      "name": {
+        "en": "[Arena Manager] Harold",
+        "fr": "[Chef de l'Arène] Harold",
+        "kr": "[아레나 관리자] 해롤드"
+      },
+      "menus": [
+        "dialog",
+        "arenaleave"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8538.354,
+          "y": 99.53509,
+          "z": 3520.654
+        }
+      ],
+      "image": "roocky.png"
+    },
+    {
+      "id": 296,
+      "name": {
+        "en": "Dior",
+        "fr": "Dior",
+        "kr": "디올"
+      },
+      "place": "flyingstation",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Broom",
+            "fr": "Balais",
+            "kr": "빗자루"
+          },
+          "items": [
+            8507,
+            2128,
+            3258,
+            7336
+          ]
+        },
+        {
+          "name": {
+            "en": "Board",
+            "fr": "Planches",
+            "kr": "보드"
+          },
+          "items": [
+            7182,
+            4482,
+            6333,
+            4715
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6958.964,
+          "y": 124.16,
+          "z": 3237.629
+        }
+      ],
+      "image": "tina.png"
+    },
+    {
+      "id": 320,
+      "name": {
+        "en": "[High-Dwarpet] Tucani",
+        "fr": "[Grand Dwarpet] Tucani",
+        "kr": "[하이-드워펫]투카니"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6995.009,
+          "y": 125.3354,
+          "z": 3897.01
+        }
+      ],
+      "image": "dwarpet.png"
+    },
+    {
+      "id": 349,
+      "name": {
+        "en": "Martin",
+        "fr": "Herth",
+        "kr": "마틴"
+      },
+      "place": "magicstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Wand",
+            "fr": "Baguettes",
+            "kr": "완드"
+          },
+          "items": [
+            1067,
+            1294,
+            3856,
+            5044,
+            5525,
+            7963,
+            920,
+            2216,
+            6634
+          ]
+        },
+        {
+          "name": {
+            "en": "Staff",
+            "fr": "Bâtons",
+            "kr": "스태프"
+          },
+          "items": [
+            2114,
+            7242,
+            5255,
+            4699,
+            4795,
+            854,
+            6730,
+            8701,
+            9923
+          ]
+        },
+        {
+          "name": {
+            "en": "Magic Tools",
+            "fr": "Elytres",
+            "kr": "마법용품"
+          },
+          "items": [
+            8815,
+            6617,
+            4602,
+            1101
+          ]
+        },
+        {
+          "name": {
+            "en": "Robe",
+            "fr": "Habits",
+            "kr": "방어구"
+          },
+          "items": [
+            9223,
+            7969,
+            860,
+            7265,
+            1172,
+            715,
+            3000,
+            4534,
+            3056,
+            5384,
+            316,
+            8734,
+            5538,
+            9785,
+            4536,
+            3340,
+            1019,
+            7331
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8315.521,
+          "y": 100,
+          "z": 3728.628
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 383,
+      "name": {
+        "en": "Hair Designer",
+        "fr": "Salon de coiffure",
+        "kr": "헤어 디자이너"
+      },
+      "menus": [
+        "dialog",
+        "hairshop"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6958.221,
+          "y": 100,
+          "z": 3349.968
+        }
+      ],
+      "image": "hair.png"
+    },
+    {
+      "id": 415,
+      "name": {
+        "en": "[Brother] Luellui",
+        "fr": "[Soeur] Luellui",
+        "kr": "[사제] 루엘루이"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 453,
+      "name": {
+        "en": "[Pepoview] Clackcable",
+        "fr": "[Pepole] Clagabole",
+        "kr": "[페포뷰] 클락케블"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8385.096,
+          "y": 100,
+          "z": 3653.676
+        }
+      ],
+      "image": "bill.png"
+    },
+    {
+      "id": 520,
+      "name": {
+        "en": "ChiChi",
+        "fr": "Chichi",
+        "kr": "찌찌"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 544,
+      "name": {
+        "en": "[Guild Siege Helper] Flanes",
+        "fr": "[Assistant des Guerres de Guildes] Flanes",
+        "kr": "[길드대전 홍보 도우미]플라네스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 591,
+      "name": {
+        "en": "[Blade Guardian] Sensirit",
+        "fr": "[Gardienne des Assassins] Sencyrit",
+        "kr": "[블레이드 수호자] 센시리트"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 599,
+      "name": {
+        "en": "Flick",
+        "fr": "Flick",
+        "kr": "프릭"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 600,
+      "name": {
+        "en": "[Ringmaster Master] Ellend",
+        "fr": "[Maître des Prêtres] Ellend",
+        "kr": "[링마스터 마스터]일렌드"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3799.287,
+          "y": 59,
+          "z": 4490.738
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 613,
+      "name": {
+        "en": "Tommy",
+        "fr": "Tommy",
+        "kr": "토미"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 647,
+      "name": {
+        "en": "Bernard",
+        "fr": "Bernard",
+        "kr": "버나드"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3827.019,
+          "y": 59,
+          "z": 4548.456
+        }
+      ],
+      "image": "lui.png"
+    },
+    {
+      "id": 733,
+      "name": {
+        "en": "Flari Pang",
+        "fr": "Pang",
+        "kr": "플라리팡"
+      },
+      "place": "lodelight",
+      "menus": [
+        "dialog",
+        "lodelight"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7341.891,
+          "y": 158.5353,
+          "z": 3873.567
+        }
+      ],
+      "image": "infopeng.png"
+    },
+    {
+      "id": 750,
+      "name": {
+        "en": "Parine",
+        "fr": "Collectionneur mystérieux",
+        "kr": "파린느"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8414.342,
+          "y": 140.1407,
+          "z": 3974.805
+        }
+      ],
+      "image": "stima.png"
+    },
+    {
+      "id": 765,
+      "name": {
+        "en": "[Elementor Master] Horison",
+        "fr": "[Maître des Elémentalistes] Horizon",
+        "kr": "[엘리멘터 마스터]호라이즌"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3796.826,
+          "y": 59,
+          "z": 4496.982
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 771,
+      "name": {
+        "en": "Tandy",
+        "fr": "Tandy",
+        "kr": "탄디"
+      },
+      "place": "generalstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Collector",
+            "fr": "Pilules",
+            "kr": "채집기"
+          },
+          "items": [
+            1809,
+            3611,
+            7718,
+            6502
+          ]
+        },
+        {
+          "name": {
+            "en": "Blinkwing",
+            "fr": "Elytres",
+            "kr": "블링크윙 "
+          },
+          "items": [
+            8815,
+            6617,
+            4602,
+            1101
+          ]
+        },
+        {
+          "name": {
+            "en": "Class Goods",
+            "fr": "Utilitaires",
+            "kr": "직업용품"
+          },
+          "items": [
+            4586,
+            3907,
+            5869
+          ]
+        },
+        {
+          "name": {
+            "en": "Magic Tools",
+            "fr": "Objets",
+            "kr": "마법용품"
+          },
+          "items": [
+            7809,
+            8840,
+            3868,
+            5933,
+            4758,
+            4700,
+            3872,
+            8161,
+            2476,
+            6443,
+            8367,
+            7153,
+            942,
+            4069,
+            4370,
+            4923,
+            7347
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3202.744,
+          "y": 11.05,
+          "z": 3437.849
+        }
+      ],
+      "image": "phacham.png"
+    },
+    {
+      "id": 850,
+      "name": {
+        "en": "Lui",
+        "fr": "Lui",
+        "kr": "루이"
+      },
+      "place": "generalstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Collector",
+            "fr": "Pilules",
+            "kr": "채집 용품"
+          },
+          "items": [
+            1809,
+            3611,
+            7718,
+            6502
+          ]
+        },
+        {
+          "name": {
+            "en": "Poster",
+            "fr": "Acolytes",
+            "kr": "포스터"
+          },
+          "items": [
+            3907,
+            5869
+          ]
+        },
+        {
+          "name": {
+            "en": "Magic Tools",
+            "fr": "Boissons",
+            "kr": "마법용품"
+          },
+          "items": [
+            7809,
+            8840,
+            3868,
+            5933,
+            4758,
+            2476,
+            6443,
+            8367,
+            7153,
+            942
+          ]
+        },
+        {
+          "name": {
+            "en": "Arrows",
+            "fr": "Flèches",
+            "kr": "화살"
+          },
+          "items": [
+            4586
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6975.657,
+          "y": 100,
+          "z": 3266.874
+        }
+      ],
+      "image": "lui.png"
+    },
+    {
+      "id": 898,
+      "name": {
+        "en": "Pheeby",
+        "fr": "Pheeby",
+        "kr": "피비"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 956,
+      "name": {
+        "en": "[Cleric] Febeitoe",
+        "fr": "[Clerc] Febeitoe",
+        "kr": "[신관] 페베이토"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 986,
+      "name": {
+        "en": "Ann",
+        "fr": "Porgo",
+        "kr": "앤"
+      },
+      "menus": [
+        "dialog",
+        "hairshop"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8461.95,
+          "y": 100,
+          "z": 3709.779
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 1049,
+      "name": {
+        "en": "[Mercenary Instructor] Hyuit",
+        "fr": "[Instructrice des Mercenaires] Hyuit",
+        "kr": "[머서너리 훈련 조교]휴잇"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7152.513,
+          "y": 99.99863,
+          "z": 3242.401
+        }
+      ],
+      "image": "marche.png"
+    },
+    {
+      "id": 1115,
+      "name": {
+        "en": "Persdryad",
+        "fr": "Dryade du Kaki",
+        "kr": "가을이벤트NPC02"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 1223,
+      "name": {
+        "en": "YaoRin",
+        "fr": "YaoRin",
+        "kr": "야 오린"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8303.86,
+          "y": 100,
+          "z": 3841.846
+        }
+      ],
+      "image": "miorang.png"
+    },
+    {
+      "id": 1327,
+      "name": {
+        "en": "[High-Dwarpet] Liekyen",
+        "fr": "[Grand Dwarpet] Liekyen",
+        "kr": "[하이-드워펫]리에키엔"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3733.855,
+          "y": 59,
+          "z": 4525.991
+        }
+      ],
+      "image": "dwarpet.png"
+    },
+    {
+      "id": 1412,
+      "name": {
+        "en": "[Blade Master] Corel",
+        "fr": "[Maître des Assassins] Corel",
+        "kr": "[블레이드 마스터]코렐"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3797.289,
+          "y": 59,
+          "z": 4486.816
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 1459,
+      "name": {
+        "en": "[Cleric] Shyrilepe",
+        "fr": "[Clerc] Shyrilepe",
+        "kr": "[신관] 시릴에페"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 1508,
+      "name": {
+        "en": "[Pepoview] Ruminerr",
+        "fr": "[Pepole] Rumineir",
+        "kr": "[페포뷰] 르미네르"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8386.912,
+          "y": 100,
+          "z": 3651.859
+        }
+      ],
+      "image": "dwarpet.png"
+    },
+    {
+      "id": 1517,
+      "name": {
+        "en": "[High-Dwarpet] Kheymerhan",
+        "fr": "[Grand Dwarpet] Kheymerhan",
+        "kr": "[하이-드워펫] 키메란"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 1550,
+      "name": {
+        "en": "PuPang",
+        "fr": "Pang",
+        "kr": "퓨팡"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 1686,
+      "name": {
+        "en": "Bolpor",
+        "fr": "Bolpor",
+        "kr": "볼포르"
+      },
+      "place": "foodstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Food",
+            "fr": "Aliments",
+            "kr": "음식점"
+          },
+          "items": [
+            5325,
+            9449,
+            2940,
+            5085,
+            5443,
+            542,
+            4388,
+            1124,
+            4493,
+            4683
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3831.705,
+          "y": 59,
+          "z": 4356.61
+        }
+      ],
+      "image": "bolpor.png"
+    },
+    {
+      "id": 1689,
+      "name": {
+        "en": "Julia",
+        "fr": "[Intendante de Flarine] Julia",
+        "kr": "쥬리아"
+      },
+      "place": "publicoffice",
+      "menus": [
+        "dialog",
+        "bank",
+        "guildbank",
+        "guildrank",
+        "guildrankwar",
+        "guildrankinfo"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6959.104,
+          "y": 100,
+          "z": 3213.523
+        },
+        {
+          "world": 4839,
+          "x": 1270.647,
+          "y": 115,
+          "z": 1351.677
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 1691,
+      "name": {
+        "en": "[Ringmaster Wise-man] Clamb",
+        "fr": "[Sage des Prêtres] Clamb",
+        "kr": "[링마스터 현자]클램브"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7693.286,
+          "y": 170.2032,
+          "z": 4225.888
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 1698,
+      "name": {
+        "en": "Phacham",
+        "fr": "Phacham",
+        "kr": "파참"
+      },
+      "place": "armorstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            3238,
+            5127,
+            9354,
+            3173,
+            5386,
+            5043,
+            7789,
+            2351,
+            9953,
+            2053,
+            357,
+            5837,
+            4468,
+            9947,
+            2832,
+            8700
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            9349,
+            5326,
+            3427,
+            2808,
+            406,
+            6428,
+            2164,
+            5191,
+            5781,
+            7516,
+            6329,
+            1060,
+            9935,
+            9703,
+            9408,
+            2401
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            1000,
+            5317,
+            1042,
+            8888,
+            466,
+            8236,
+            2921,
+            5552,
+            9058,
+            4982,
+            4073,
+            8423,
+            2203,
+            2925,
+            6626,
+            1307
+          ]
+        },
+        {
+          "name": {
+            "en": "Magician",
+            "fr": "Magicien",
+            "kr": "매지션"
+          },
+          "items": [
+            9139,
+            6893,
+            5090,
+            8260,
+            8079,
+            9765,
+            2806,
+            7581,
+            890,
+            521,
+            5862,
+            9054,
+            2324,
+            1148,
+            2432,
+            7734
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 5580.702,
+          "y": 75,
+          "z": 3901.839
+        }
+      ],
+      "image": "phacham.png"
+    },
+    {
+      "id": 1724,
+      "name": {
+        "en": "Darkon Pang II",
+        "fr": "Pang",
+        "kr": "다콘팡2"
+      },
+      "place": "lodelight",
+      "menus": [
+        "dialog",
+        "lodelight"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3220.544,
+          "y": 11.00308,
+          "z": 3412.613
+        }
+      ],
+      "image": "infopeng.png"
+    },
+    {
+      "id": 1771,
+      "name": {
+        "en": "[Sage] Radyon",
+        "fr": "[Sage des Jesters] Radyan",
+        "kr": "[제스터 현자]라디온"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7635.972,
+          "y": 169.02,
+          "z": 4229.069
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 1781,
+      "name": {
+        "en": "Geron",
+        "fr": "Geron",
+        "kr": "게론"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 1785,
+      "name": {
+        "en": "SsotTta",
+        "fr": "Sotta",
+        "kr": "쏘따"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7179.42,
+          "y": 99.99999,
+          "z": 3216.337
+        }
+      ],
+      "image": "bolpor.png"
+    },
+    {
+      "id": 1830,
+      "name": {
+        "en": "[Historian] Martinyc",
+        "fr": "[Historienne] Martinyc",
+        "kr": "[역사학자]마르티닉"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6998.787,
+          "y": 100,
+          "z": 3203.146
+        }
+      ],
+      "image": "agent.png"
+    },
+    {
+      "id": 1842,
+      "name": {
+        "en": "[Chairman of History Society] Gothante",
+        "fr": "[Historien] Gothante",
+        "kr": "[역사협회 회장]고단테"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8353.016,
+          "y": 99.77516,
+          "z": 3983.67
+        }
+      ],
+      "image": "almani.png"
+    },
+    {
+      "id": 1872,
+      "name": {
+        "en": "Boboko",
+        "fr": "Boboko",
+        "kr": "보보코"
+      },
+      "place": "armorstore",
+      "menus": [
+        "dialog",
+        "trade",
+        "upgrade",
+        "safeupgrade",
+        "safeelementupgrade",
+        "attribute"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            7549,
+            5866,
+            2121,
+            6924,
+            3692,
+            7259,
+            2370,
+            884,
+            6695,
+            276,
+            922,
+            2285,
+            4538,
+            9593,
+            409,
+            2837
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            5054,
+            987,
+            967,
+            7840,
+            3869,
+            6032,
+            5875,
+            3694,
+            3449,
+            2594,
+            1779,
+            5735,
+            8340,
+            7854,
+            1919,
+            4528
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            5236,
+            7140,
+            2616,
+            7654,
+            4941,
+            6250,
+            1623,
+            6326,
+            5688,
+            9436,
+            2967,
+            4948,
+            9310,
+            3511,
+            3570,
+            8334
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6928.169,
+          "y": 100,
+          "z": 3227.52
+        }
+      ],
+      "image": "boboku.png"
+    },
+    {
+      "id": 1893,
+      "name": {
+        "en": "[Blade Wise-man] Guabrill",
+        "fr": "[Sage des Assassins] Guabrill",
+        "kr": "[블레이드 현자]가브릴"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7678.735,
+          "y": 179.0914,
+          "z": 4251.526
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 1903,
+      "name": {
+        "en": "Letana",
+        "fr": "Letana",
+        "kr": "Letana"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8291.55,
+          "y": 100,
+          "z": 3850.268
+        }
+      ],
+      "image": "meialune.png"
+    },
+    {
+      "id": 1915,
+      "name": {
+        "en": "Kimberley",
+        "fr": "[Chef de l'Arène] Ray",
+        "kr": "킴벌리"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8374.658,
+          "y": 100,
+          "z": 3659.452
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 1954,
+      "name": {
+        "en": "Ivil Pho",
+        "fr": "Evil Pho",
+        "kr": "이블포"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 1988,
+      "name": {
+        "en": "Herth",
+        "fr": "Colack",
+        "kr": "허스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8360.62,
+          "y": 100,
+          "z": 3751.038
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 2031,
+      "name": {
+        "en": "[Brother] Dien",
+        "fr": "[Soeur] Dien",
+        "kr": "[사제] 디엔"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 2052,
+      "name": {
+        "en": "Jeff",
+        "fr": "Jeff",
+        "kr": "제프"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6954.721,
+          "y": 100,
+          "z": 3274.097
+        }
+      ],
+      "image": "bill.png"
+    },
+    {
+      "id": 2080,
+      "name": {
+        "en": "Ivil Nana",
+        "fr": "Evil Nana",
+        "kr": "이블나나"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 2091,
+      "name": {
+        "en": "Eshylop",
+        "fr": "Eshylop",
+        "kr": "에쉴롭"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3890.031,
+          "y": 58.84149,
+          "z": 4145.79
+        }
+      ],
+      "image": "unknown.png"
+    },
+    {
+      "id": 2109,
+      "name": {
+        "en": "Nevil",
+        "fr": "Nevil",
+        "kr": "네빌"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 2927,
+          "x": 1073.514,
+          "y": 86.39999,
+          "z": 696.3137
+        }
+      ],
+      "image": "keakoon.png"
+    },
+    {
+      "id": 2122,
+      "name": {
+        "en": "Zaikun",
+        "fr": "Zaikun",
+        "kr": "자이쿤"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 2139,
+      "name": {
+        "en": "Jeffo",
+        "fr": "Jeffo",
+        "kr": "제포"
+      },
+      "menus": [
+        "bank"
+      ],
+      "locations": [],
+      "image": "juria.png"
+    },
+    {
+      "id": 2150,
+      "name": {
+        "en": "Marche",
+        "fr": "Marche",
+        "kr": "마르쉐"
+      },
+      "place": "magicstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Wand",
+            "fr": "Baguettes",
+            "kr": "완드"
+          },
+          "items": [
+            162,
+            1067,
+            1294,
+            3856
+          ]
+        },
+        {
+          "name": {
+            "en": "Staff",
+            "fr": "Bâtons",
+            "kr": "스태프"
+          },
+          "items": [
+            5006,
+            2114,
+            7242,
+            5255
+          ]
+        },
+        {
+          "name": {
+            "en": "Magic Tools",
+            "fr": "Elytres",
+            "kr": "마법용품"
+          },
+          "items": [
+            8815,
+            6617,
+            4602,
+            1101
+          ]
+        },
+        {
+          "name": {
+            "en": "Robe",
+            "fr": "Habits",
+            "kr": "방어구"
+          },
+          "items": [
+            9523,
+            6561,
+            33,
+            663,
+            3753,
+            9223,
+            1188,
+            2294,
+            8774,
+            2083,
+            842,
+            5230,
+            3699,
+            5384,
+            4544,
+            9733
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7169.168,
+          "y": 100,
+          "z": 3271.165
+        }
+      ],
+      "image": "marche.png"
+    },
+    {
+      "id": 2156,
+      "name": {
+        "en": "Soro",
+        "fr": "Soro",
+        "kr": "소로"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [],
+      "image": "mawrang.png"
+    },
+    {
+      "id": 2268,
+      "name": {
+        "en": "Mayun",
+        "fr": "Mayun",
+        "kr": "마윤"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8197.681,
+          "y": 84.79285,
+          "z": 2805.672
+        }
+      ],
+      "image": "bill.png"
+    },
+    {
+      "id": 2349,
+      "name": {
+        "en": "Guild Siege Merchant",
+        "fr": "Marchand des Guerre de Guildes",
+        "kr": "길드대전 상인"
+      },
+      "place": "generalstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Food",
+            "fr": "Aliments",
+            "kr": "음식점"
+          },
+          "items": [
+            5325,
+            9449,
+            2940,
+            5085,
+            5443,
+            542,
+            4388,
+            1124,
+            4493,
+            4683
+          ]
+        },
+        {
+          "name": {
+            "en": "Poster",
+            "fr": "Acolyte",
+            "kr": "포스터"
+          },
+          "items": [
+            3907,
+            5869
+          ]
+        },
+        {
+          "name": {
+            "en": "Magic Tools",
+            "fr": "Objets",
+            "kr": "마법용품"
+          },
+          "items": [
+            7809,
+            8840,
+            3868,
+            5933,
+            4758,
+            4700,
+            3872,
+            2476,
+            6443,
+            8367,
+            7153,
+            942,
+            4069,
+            4370,
+            3343,
+            7116,
+            3574
+          ]
+        },
+        {
+          "name": {
+            "en": "Arrow",
+            "fr": "Flèches",
+            "kr": "화살"
+          },
+          "items": [
+            4586
+          ]
+        }
+      ],
+      "locations": []
+    },
+    {
+      "id": 2386,
+      "name": {
+        "en": "[Knight Wise-man] Hormes",
+        "fr": "[Sage des Chevaliers] Hormes",
+        "kr": "[나이트 현자]호르메스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7677.743,
+          "y": 179.3777,
+          "z": 4252.203
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 2414,
+      "name": {
+        "en": "[Novelist] Gergantes",
+        "fr": "[Romancier] Gergantes",
+        "kr": "[소설가]게르간테스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6960.132,
+          "y": 100,
+          "z": 3339.728
+        }
+      ],
+      "image": "chitller.png"
+    },
+    {
+      "id": 2420,
+      "name": {
+        "en": "Eshylop",
+        "fr": "Eshylop",
+        "kr": "에쉴롭"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3889.866,
+          "y": 59,
+          "z": 3923.519
+        }
+      ],
+      "image": "unknown.png"
+    },
+    {
+      "id": 2442,
+      "name": {
+        "en": "Baby Polar Bear",
+        "fr": "Bébé Ours Polaire",
+        "kr": "아기 북극곰"
+      },
+      "place": "generalstore",
+      "menus": [
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Surprising Event Sale",
+            "fr": "Evènement surprise",
+            "kr": "이벤트 기간 깜짝 판매"
+          },
+          "items": [
+            5113,
+            9467
+          ]
+        }
+      ],
+      "locations": []
+    },
+    {
+      "id": 2496,
+      "name": {
+        "en": "[Ranger Priest] Rupim",
+        "fr": "[Doyenne des Rangers] Rupim",
+        "kr": "[레인저 사제]루핌"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3170.873,
+          "y": 65.62785,
+          "z": 3644.523
+        }
+      ],
+      "image": "marche.png"
+    },
+    {
+      "id": 2595,
+      "name": {
+        "en": "Amadolka",
+        "fr": "Amadolka",
+        "kr": "아마돌카"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 5600.739,
+          "y": 75.00008,
+          "z": 3767.308
+        }
+      ],
+      "image": "lui.png"
+    },
+    {
+      "id": 2599,
+      "name": {
+        "en": "[Pepoview] Vianlee",
+        "fr": "[Pepole] Vianlee",
+        "kr": "[페포뷰] 비안리"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8396.88,
+          "y": 100.1,
+          "z": 3654.479
+        }
+      ],
+      "image": "milina.png"
+    },
+    {
+      "id": 2603,
+      "name": {
+        "en": "Adin",
+        "fr": "Adin",
+        "kr": "에이딘"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 2631,
+      "name": {
+        "en": "Nevil of Prison",
+        "fr": "Nevil de la Prison",
+        "kr": "감옥의 네빌"
+      },
+      "menus": [],
+      "locations": []
+    },
+    {
+      "id": 2659,
+      "name": {
+        "en": "[Knight Guardian] Boneper",
+        "fr": "[Gardienne des Chevaliers] Boneper",
+        "kr": "[나이트 수호자]보네페르"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3344.027,
+          "y": 146.9564,
+          "z": 2071.1
+        }
+      ],
+      "image": "guard01.png"
+    },
+    {
+      "id": 2673,
+      "name": {
+        "en": "[Ranger Guardian] Kailreard",
+        "fr": "[Gardienne des Rangers] Kailreard",
+        "kr": "[레인저 수호자]카일레아드"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3351.367,
+          "y": 146.9858,
+          "z": 2063.716
+        }
+      ],
+      "image": "guard01.png"
+    },
+    {
+      "id": 2758,
+      "name": {
+        "en": "[Jester Guardian] Heingard",
+        "fr": "[Gardienne des Jesters] Heingard",
+        "kr": "[제스터 수호자]헤인가르드"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3336.709,
+          "y": 146.9001,
+          "z": 2063.72
+        }
+      ],
+      "image": "guard01.png"
+    },
+    {
+      "id": 2838,
+      "name": {
+        "en": "[Dradpet Manager] Kanane",
+        "fr": "[Manager Dreadpet] Kanane",
+        "kr": "[드래드펫 관리자]카나네"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7741.04,
+          "y": 95.5146,
+          "z": 4074.891
+        }
+      ],
+      "image": "unknown.png"
+    },
+    {
+      "id": 2871,
+      "name": {
+        "en": "JeongHwa",
+        "fr": "Bulrox",
+        "kr": "정화"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8334.948,
+          "y": 100,
+          "z": 3713.428
+        }
+      ],
+      "image": "haven.png"
+    },
+    {
+      "id": 2881,
+      "name": {
+        "en": "Is",
+        "fr": "Is",
+        "kr": "이스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6960.071,
+          "y": 100,
+          "z": 3266.104
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 2882,
+      "name": {
+        "en": "Heltung",
+        "fr": "[Maître des Magiciens] Hee",
+        "kr": "헬텅"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8447.493,
+          "y": 100,
+          "z": 3576.305
+        }
+      ],
+      "image": "achaben.png"
+    },
+    {
+      "id": 2935,
+      "name": {
+        "en": "[Magician Master] Hee",
+        "fr": "[Maître des Magiciens] Hee",
+        "kr": "[매지션 마스터]희"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8341.125,
+          "y": 100.6,
+          "z": 3750.59
+        }
+      ],
+      "image": "agent.png"
+    },
+    {
+      "id": 2941,
+      "name": {
+        "en": "Colack",
+        "fr": "Bozman",
+        "kr": "콜락"
+      },
+      "place": "shieldstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Shields",
+            "fr": "Boucliers",
+            "kr": "방패"
+          },
+          "items": [
+            8312,
+            5242,
+            5175,
+            2856,
+            2090,
+            582
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8369.506,
+          "y": 100,
+          "z": 3675.497
+        }
+      ],
+      "image": "bulrox.png"
+    },
+    {
+      "id": 2957,
+      "name": {
+        "en": "[Manager of Ancient Document] Rovanett",
+        "fr": "[Conservatrice] Rovanett",
+        "kr": "[고대문서 관리자]로바네트"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8439.945,
+          "y": 100.0252,
+          "z": 3547.745
+        }
+      ],
+      "image": "agent.png"
+    },
+    {
+      "id": 2988,
+      "name": {
+        "en": "Makeup Artist",
+        "fr": "Institut de beauté",
+        "kr": "[스타일리스트] 리스본"
+      },
+      "menus": [
+        "dialog",
+        "skinshop"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6961.313,
+          "y": 100,
+          "z": 3349.829
+        }
+      ],
+      "image": "makeup.png"
+    },
+    {
+      "id": 3052,
+      "name": {
+        "en": "Furan",
+        "fr": "Furan",
+        "kr": "후란"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 3099,
+      "name": {
+        "en": "Banker Pang",
+        "fr": "Pang",
+        "kr": "은행원 팡"
+      },
+      "menus": [
+        "bank"
+      ],
+      "locations": []
+    },
+    {
+      "id": 3120,
+      "name": {
+        "en": "[Billposter Priest] Fera",
+        "fr": "[Doyenne des Moines] Fera",
+        "kr": "[빌포스터 사제]페라"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3524.219,
+          "y": 41.10264,
+          "z": 3547.311
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 3150,
+      "name": {
+        "en": "[Guild Siege Manager] Frankie",
+        "fr": "[Manager des Guerres de Guildes] Franky",
+        "kr": "[길드대전 매니저]프랜키"
+      },
+      "menus": [
+        "dialog",
+        "guildsiegeapply",
+        "guildsiegestate",
+        "guildsiegejoin",
+        "guildsiegelineup",
+        "guildsiegeinfo1",
+        "guildsiegeinfo2",
+        "guildsiegeinfo3"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6989.499,
+          "y": 100,
+          "z": 3331.04
+        }
+      ],
+      "image": "guildwar01.png"
+    },
+    {
+      "id": 3199,
+      "name": {
+        "en": "Bulrox",
+        "fr": "Kimberley",
+        "kr": "불록"
+      },
+      "place": "weaponstore",
+      "menus": [
+        "dialog",
+        "trade",
+        "piercing",
+        "safepiercing",
+        "piercingremove",
+        "changeelem"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            8256,
+            2842,
+            7725,
+            4913,
+            9788,
+            4877,
+            3531,
+            2116,
+            6713,
+            4092,
+            3940,
+            7159,
+            6073,
+            9648,
+            6939,
+            7520,
+            8350,
+            8706
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            3480,
+            1334,
+            6555,
+            8969,
+            4041,
+            1522,
+            1700,
+            8801,
+            9234,
+            4215,
+            6836,
+            6245,
+            7892,
+            9984,
+            9341,
+            5197,
+            3229,
+            2097
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            3186,
+            4358,
+            5427,
+            9654,
+            91,
+            9808,
+            217,
+            5919,
+            5117,
+            4467,
+            3567,
+            5691,
+            8446,
+            7439,
+            8075,
+            4167,
+            8220,
+            1677
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8372.59,
+          "y": 100,
+          "z": 3671.628
+        }
+      ],
+      "image": "bulrox.png"
+    },
+    {
+      "id": 3232,
+      "name": {
+        "en": "Molang",
+        "fr": "Molang",
+        "kr": "몰랑"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 3317,
+      "name": {
+        "en": "[Probationer Cook] Juglin",
+        "fr": "[Cuisiner] Juglin",
+        "kr": "[견습 요리사]저글린"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 3339,
+      "name": {
+        "en": "Porgo",
+        "fr": "[Entraîneur des Magiciens] Winyei",
+        "kr": "포르고"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8532.436,
+          "y": 100,
+          "z": 3607.489
+        }
+      ],
+      "image": "lui.png"
+    },
+    {
+      "id": 3368,
+      "name": {
+        "en": "Helena",
+        "fr": "Tina",
+        "kr": "헬레나"
+      },
+      "place": "publicoffice",
+      "menus": [
+        "dialog",
+        "bank",
+        "guildbank",
+        "guildrank",
+        "guildrankwar",
+        "guildrankinfo"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8463.478,
+          "y": 100,
+          "z": 3600.757
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 3387,
+      "name": {
+        "en": "[Madrigal Chorus] Pera",
+        "fr": "[Choeur de Madrigal] Pera",
+        "kr": "[마드리갈 합창단]페라"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [],
+      "image": "losha.png"
+    },
+    {
+      "id": 3409,
+      "name": {
+        "en": "[Mercenary Master] Andy",
+        "fr": "[Maître des Mercenaires] Andy",
+        "kr": "[머서너리 마스터]앤디"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6929.957,
+          "y": 100.3,
+          "z": 3328.84
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 3421,
+      "name": {
+        "en": "[Pet Tamer]",
+        "fr": "Eleveur de familiers",
+        "kr": "[펫 테이머]"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6989.561,
+          "y": 100,
+          "z": 3256.066
+        },
+        {
+          "world": 6063,
+          "x": 8465.417,
+          "y": 100,
+          "z": 3622.853
+        },
+        {
+          "world": 6063,
+          "x": 5569.151,
+          "y": 75.019,
+          "z": 3898.975
+        },
+        {
+          "world": 6063,
+          "x": 3824.431,
+          "y": 59,
+          "z": 4462.046
+        }
+      ],
+      "image": "pettamer.png"
+    },
+    {
+      "id": 3430,
+      "name": {
+        "en": "Darz",
+        "fr": "Darz",
+        "kr": "다즈"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 615,
+          "x": 1075.565,
+          "y": 5.28125,
+          "z": 1337.622
+        }
+      ],
+      "image": "unknown.png"
+    },
+    {
+      "id": 3439,
+      "name": {
+        "en": "Acto",
+        "fr": "Acto",
+        "kr": "액토"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 3547,
+      "name": {
+        "en": "Bill",
+        "fr": "Ann",
+        "kr": "빌"
+      },
+      "place": "generalstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Collector",
+            "fr": "Pilules",
+            "kr": "알약"
+          },
+          "items": [
+            1809,
+            3611,
+            7718,
+            6502
+          ]
+        },
+        {
+          "name": {
+            "en": "Poster",
+            "fr": "Acolytes",
+            "kr": "포스터"
+          },
+          "items": [
+            3907,
+            5869
+          ]
+        },
+        {
+          "name": {
+            "en": "Magic Tools",
+            "fr": "Objets",
+            "kr": "마법용품"
+          },
+          "items": [
+            7809,
+            8840,
+            3868,
+            5933,
+            4758,
+            4700,
+            2476,
+            6443,
+            8367,
+            7153,
+            942,
+            4069,
+            3343,
+            7116
+          ]
+        },
+        {
+          "name": {
+            "en": "Arrow",
+            "fr": "Flèches",
+            "kr": "화살"
+          },
+          "items": [
+            4586
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8410.16,
+          "y": 100,
+          "z": 3680.759
+        }
+      ],
+      "image": "bill.png"
+    },
+    {
+      "id": 3573,
+      "name": {
+        "en": "Remine",
+        "fr": "Remine",
+        "kr": "레미네"
+      },
+      "place": "weaponstore",
+      "menus": [
+        "dialog",
+        "trade",
+        "piercing",
+        "safepiercing",
+        "piercingremove",
+        "changeelem"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            1757,
+            3043,
+            5249,
+            1902,
+            6070,
+            9643,
+            3444,
+            3805,
+            2184,
+            3223,
+            6021,
+            714,
+            7657,
+            7577,
+            2459,
+            119,
+            5098,
+            8374,
+            8326,
+            9094,
+            7185,
+            2761
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            1778,
+            254,
+            9936,
+            2715,
+            2320,
+            2036,
+            9050,
+            4926,
+            4856,
+            389,
+            3471,
+            197
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            1173,
+            8496,
+            7339,
+            2930,
+            9507,
+            6929,
+            2571,
+            3418,
+            4109,
+            9633,
+            5213,
+            7700
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3748.583,
+          "y": 59,
+          "z": 4412.304
+        }
+      ],
+      "image": "remine.png"
+    },
+    {
+      "id": 3684,
+      "name": {
+        "en": "Nemra",
+        "fr": "Nemra",
+        "kr": "Nemra"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8294.774,
+          "y": 100,
+          "z": 3840.047
+        }
+      ],
+      "image": "cheirang.png"
+    },
+    {
+      "id": 3740,
+      "name": {
+        "en": "Lanro",
+        "fr": "Lanro",
+        "kr": "Lanro"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 3752,
+      "name": {
+        "en": "Hachal",
+        "fr": "Hachal",
+        "kr": "하칼"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 5535.894,
+          "y": 97,
+          "z": 3462.183
+        }
+      ],
+      "image": "almani.png"
+    },
+    {
+      "id": 3779,
+      "name": {
+        "en": "Ciel",
+        "fr": "Ciel",
+        "kr": "시엘"
+      },
+      "place": "magicstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Wand",
+            "fr": "Baguettes",
+            "kr": "완드"
+          },
+          "items": [
+            162,
+            1067,
+            1294,
+            3856,
+            5044,
+            5525,
+            7963,
+            920,
+            2216,
+            6634,
+            6595,
+            7642,
+            8975,
+            8546,
+            1467,
+            2537
+          ]
+        },
+        {
+          "name": {
+            "en": "Staff",
+            "fr": "Bâtons",
+            "kr": "스태프"
+          },
+          "items": [
+            5006,
+            2114,
+            7242,
+            5255,
+            4699,
+            4795,
+            854,
+            6730,
+            8701,
+            9923,
+            2870,
+            4663,
+            6019,
+            1142,
+            6269,
+            6343
+          ]
+        },
+        {
+          "name": {
+            "en": "Magic Tools",
+            "fr": "Elytres",
+            "kr": "마법용품"
+          },
+          "items": [
+            7809,
+            8840,
+            3868,
+            5933,
+            4758,
+            4700,
+            3872,
+            8161,
+            2476,
+            6443,
+            8367,
+            7153,
+            942,
+            4069,
+            4370,
+            4923,
+            8815,
+            6617,
+            4602,
+            1101,
+            7347
+          ]
+        },
+        {
+          "name": {
+            "en": "Robe",
+            "fr": "Habits",
+            "kr": "방어구"
+          },
+          "items": [
+            9523,
+            6561,
+            33,
+            663,
+            3753,
+            9223,
+            1188,
+            2294,
+            7969,
+            860,
+            7265,
+            1172,
+            715,
+            3000,
+            4534,
+            3056,
+            9139,
+            6893,
+            5090,
+            8260,
+            8079,
+            9765,
+            2806,
+            7581,
+            3704,
+            3530,
+            5084,
+            5995,
+            3610,
+            7603,
+            748,
+            8300,
+            8774,
+            2083,
+            842,
+            5230,
+            3699,
+            5384,
+            4544,
+            9733,
+            316,
+            8734,
+            5538,
+            9785,
+            4536,
+            3340,
+            1019,
+            7331,
+            890,
+            521,
+            5862,
+            9054,
+            2324,
+            1148,
+            2432,
+            7734,
+            4724,
+            9476,
+            1214,
+            3583,
+            1491,
+            5490,
+            8674,
+            5442
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 4839,
+          "x": 1250.201,
+          "y": 115,
+          "z": 1372.777
+        }
+      ],
+      "image": "haven.png"
+    },
+    {
+      "id": 3826,
+      "name": {
+        "en": "[Pepoview] Ellangdl",
+        "fr": "[Pepole] Ellang",
+        "kr": "[페포뷰] 엘랑들"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8396.128,
+          "y": 100.2,
+          "z": 3655.721
+        }
+      ],
+      "image": "rhine.png"
+    },
+    {
+      "id": 3834,
+      "name": {
+        "en": "Dig",
+        "fr": "Dig",
+        "kr": "디그"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 3883,
+      "name": {
+        "en": "Queer Collector",
+        "fr": "Collectionneur mystérieux",
+        "kr": "기괴한 수집가"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8383.202,
+          "y": 145,
+          "z": 4085.15
+        }
+      ],
+      "image": "keakoon.png"
+    },
+    {
+      "id": 3891,
+      "name": {
+        "en": "[Blade Priest] Jeperdy",
+        "fr": "[Doyenne des Assassins] Jeperdy",
+        "kr": "[블레이드 사제]제퍼디"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3526.78,
+          "y": 88.51694,
+          "z": 2792.018
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 3898,
+      "name": {
+        "en": "Ivil Tobby",
+        "fr": "Evil Tobby",
+        "kr": "이블토비"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 3953,
+      "name": {
+        "en": "Stin",
+        "fr": "Stin",
+        "kr": "스틴"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 3962,
+      "name": {
+        "en": "Heron",
+        "fr": "Heron",
+        "kr": "헤론"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 4839,
+          "x": 1268.847,
+          "y": 115,
+          "z": 1351.547
+        }
+      ],
+      "image": "priest.png"
+    },
+    {
+      "id": 3972,
+      "name": {
+        "en": "[Guild Siege Manager] Donaris",
+        "fr": "[Manager des Guerres de Guildes] Donaris",
+        "kr": "[길드대전 매니저]도나리스"
+      },
+      "menus": [
+        "dialog",
+        "guildsiegecancel",
+        "guildsiegeranking",
+        "guildsiegejackpot",
+        "guildsiegebestplayer",
+        "guildsiegejackpot2",
+        "guildsiegeinfo4"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6989.497,
+          "y": 100,
+          "z": 3326.017
+        }
+      ],
+      "image": "guildwar02.png"
+    },
+    {
+      "id": 4000,
+      "name": {
+        "en": "Lancomi",
+        "fr": "[Instructrice des Magiciens] Lopaze",
+        "kr": "랑코미"
+      },
+      "place": "questoffice",
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8480.749,
+          "y": 100,
+          "z": 3660.423
+        }
+      ],
+      "image": "agent.png"
+    },
+    {
+      "id": 4031,
+      "name": {
+        "en": "Valin",
+        "fr": "Valin",
+        "kr": "발린"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 4035,
+      "name": {
+        "en": "[Elementor Guardian] Wendien",
+        "fr": "[Gardienne des Elémentalistes] Wendien",
+        "kr": "[엘레멘터 수호자] 웬디엔"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 4104,
+      "name": {
+        "en": "Karin",
+        "fr": "Helgar",
+        "kr": "카린"
+      },
+      "place": "foodstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Food",
+            "fr": "Aliments",
+            "kr": "음식점"
+          },
+          "items": [
+            5325,
+            9449,
+            2940,
+            5085,
+            5443,
+            542,
+            4388,
+            1124,
+            4493,
+            4683
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8359.337,
+          "y": 100,
+          "z": 3640.241
+        }
+      ],
+      "image": "karin.png"
+    },
+    {
+      "id": 4118,
+      "name": {
+        "en": "Rocbin",
+        "fr": "Rocbin",
+        "kr": "록빈"
+      },
+      "place": "armorstore",
+      "menus": [
+        "dialog",
+        "trade",
+        "upgrade",
+        "safeupgrade",
+        "safeelementupgrade",
+        "attribute"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            7549,
+            5866,
+            2121,
+            6924,
+            3692,
+            7259,
+            2370,
+            884,
+            4445,
+            5539,
+            2310,
+            4429,
+            9536,
+            1654,
+            3042,
+            1138,
+            3238,
+            5127,
+            9354,
+            3173,
+            5386,
+            5043,
+            7789,
+            2351,
+            7189,
+            4578,
+            9265,
+            8596,
+            9908,
+            9491,
+            6902,
+            7888,
+            5562,
+            50,
+            9872,
+            7149,
+            3887,
+            2380,
+            2391,
+            8040,
+            4375,
+            4022,
+            3682,
+            9721,
+            7309,
+            5155,
+            9933,
+            7914,
+            9387,
+            1560,
+            8245,
+            2701,
+            7964,
+            2677,
+            6863,
+            7276,
+            6695,
+            276,
+            922,
+            2285,
+            4538,
+            9593,
+            409,
+            2837,
+            3249,
+            3342,
+            8257,
+            9664,
+            9352,
+            9283,
+            713,
+            4257,
+            9953,
+            2053,
+            357,
+            5837,
+            4468,
+            9947,
+            2832,
+            8700,
+            145,
+            8008,
+            7157,
+            8328,
+            720,
+            1181,
+            8680,
+            2035,
+            5748,
+            8729,
+            7810,
+            7132,
+            302,
+            2481,
+            310,
+            2939,
+            9665,
+            5298,
+            6677,
+            7563,
+            9956,
+            7368,
+            478,
+            1463,
+            3842,
+            4721,
+            4354,
+            6165,
+            5066,
+            1287,
+            3251,
+            2696
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            5054,
+            987,
+            967,
+            7840,
+            3869,
+            6032,
+            5875,
+            3694,
+            1628,
+            2460,
+            5068,
+            5581,
+            4325,
+            4003,
+            8003,
+            9404,
+            9349,
+            5326,
+            3427,
+            2808,
+            406,
+            6428,
+            2164,
+            5191,
+            6207,
+            932,
+            6074,
+            4995,
+            1694,
+            3271,
+            6738,
+            2795,
+            4772,
+            7386,
+            4286,
+            4127,
+            3285,
+            6092,
+            8136,
+            4373,
+            7568,
+            4649,
+            9539,
+            2282,
+            8373,
+            7910,
+            7202,
+            5488,
+            4314,
+            9357,
+            6366,
+            1455,
+            3451,
+            429,
+            7929,
+            5878,
+            3449,
+            2594,
+            1779,
+            5735,
+            8340,
+            7854,
+            1919,
+            4528,
+            5409,
+            4971,
+            9702,
+            7519,
+            2548,
+            531,
+            4079,
+            6265,
+            5781,
+            7516,
+            6329,
+            1060,
+            9935,
+            9703,
+            9408,
+            2401,
+            7498,
+            7015,
+            8192,
+            7108,
+            1824,
+            526,
+            3405,
+            9508,
+            5473,
+            1891,
+            6870,
+            4027,
+            1887,
+            4457,
+            9327,
+            7381,
+            2723,
+            540,
+            2928,
+            1511,
+            9462,
+            2290,
+            7928,
+            2458,
+            1425,
+            2851,
+            5548,
+            1590,
+            5030,
+            9396,
+            866,
+            8653
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            5236,
+            7140,
+            2616,
+            7654,
+            4941,
+            6250,
+            1623,
+            6326,
+            4009,
+            834,
+            5093,
+            3240,
+            9770,
+            2991,
+            5972,
+            9943,
+            1000,
+            5317,
+            1042,
+            8888,
+            466,
+            8236,
+            2921,
+            5552,
+            3644,
+            9454,
+            8066,
+            6317,
+            6657,
+            2943,
+            4823,
+            8483,
+            8133,
+            6977,
+            4691,
+            5281,
+            3969,
+            3051,
+            2046,
+            7812,
+            2523,
+            3529,
+            8129,
+            2343,
+            4934,
+            1854,
+            1672,
+            5020,
+            3345,
+            5323,
+            3276,
+            7579,
+            2576,
+            7085,
+            8684,
+            4682,
+            5688,
+            9436,
+            2967,
+            4948,
+            9310,
+            3511,
+            3570,
+            8334,
+            7390,
+            2536,
+            6889,
+            7669,
+            9187,
+            6675,
+            1331,
+            6964,
+            9058,
+            4982,
+            4073,
+            8423,
+            2203,
+            2925,
+            6626,
+            1307,
+            7982,
+            1500,
+            9337,
+            5123,
+            743,
+            3027,
+            9090,
+            8602,
+            2092,
+            8824,
+            476,
+            2509,
+            5720,
+            1519,
+            1346,
+            4749,
+            8733,
+            93,
+            4222,
+            8272,
+            291,
+            1865,
+            7041,
+            4844,
+            5200,
+            3301,
+            326,
+            5352,
+            5010,
+            3705,
+            7177,
+            5439
+          ]
+        },
+        {
+          "name": {
+            "en": "Shield",
+            "fr": "Boucliers",
+            "kr": "방어구점"
+          },
+          "items": [
+            5018,
+            8045,
+            7458,
+            8312,
+            5242,
+            5175,
+            2856,
+            2090,
+            582,
+            9102
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 4839,
+          "x": 1286.895,
+          "y": 115,
+          "z": 1358.819
+        }
+      ],
+      "image": "roocky.png"
+    },
+    {
+      "id": 4129,
+      "name": {
+        "en": "[Billposter Master] Ride",
+        "fr": "[Maître des Moines] Ride",
+        "kr": "[빌포스터 마스터]라이드"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3788.051,
+          "y": 59.09999,
+          "z": 4481.206
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 4155,
+      "name": {
+        "en": "[Madrigal Chorus] Joyce",
+        "fr": "[Choeur de Madrigal] Joyce",
+        "kr": "[마드리갈 합창단]조이스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [],
+      "image": "losha.png"
+    },
+    {
+      "id": 4162,
+      "name": {
+        "en": "Yuna",
+        "fr": "Yuna",
+        "kr": "유나"
+      },
+      "place": "generalstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Collector",
+            "fr": "Collecteurs",
+            "kr": "콜랙터(사용 안함)"
+          },
+          "items": [
+            1809,
+            3611,
+            7718,
+            6502
+          ]
+        },
+        {
+          "name": {
+            "en": "Food",
+            "fr": "Aliments",
+            "kr": "음식점"
+          },
+          "items": [
+            5325,
+            9449,
+            2940,
+            5085,
+            5443,
+            542,
+            4388,
+            1124,
+            4493,
+            4683
+          ]
+        },
+        {
+          "name": {
+            "en": "Poster",
+            "fr": "Acolyte",
+            "kr": "포스터"
+          },
+          "items": [
+            3907,
+            5869
+          ]
+        },
+        {
+          "name": {
+            "en": "Arrow",
+            "fr": "Flèches",
+            "kr": "화살"
+          },
+          "items": [
+            4586
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 4839,
+          "x": 1251.632,
+          "y": 114.9795,
+          "z": 1349.078
+        }
+      ],
+      "image": "stima.png"
+    },
+    {
+      "id": 4177,
+      "name": {
+        "en": "Dekane"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 2927,
+          "x": 1662.025,
+          "y": 81.86657,
+          "z": 714.8893
+        }
+      ],
+      "image": "phacham.png"
+    },
+    {
+      "id": 4228,
+      "name": {
+        "en": "Ata",
+        "fr": "Ata",
+        "kr": "아타"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6703.564,
+          "y": 136.0849,
+          "z": 3326.786
+        }
+      ],
+      "image": "bill.png"
+    },
+    {
+      "id": 4234,
+      "name": {
+        "en": "Cell",
+        "fr": "Cell",
+        "kr": "셀"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 5561.092,
+          "y": 75.02871,
+          "z": 3909.131
+        }
+      ],
+      "image": "bulrox.png"
+    },
+    {
+      "id": 4239,
+      "name": {
+        "en": "Boboku",
+        "fr": "Boboku",
+        "kr": "보보쿠"
+      },
+      "place": "weaponstore",
+      "menus": [
+        "dialog",
+        "trade",
+        "piercing",
+        "safepiercing",
+        "piercingremove",
+        "changeelem"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            8382,
+            9697,
+            8256,
+            2842,
+            7725,
+            4913,
+            9788,
+            4877
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            2266,
+            7289,
+            3480,
+            1334,
+            6555,
+            8969,
+            4041,
+            1522
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            5912,
+            412,
+            3186,
+            4358,
+            5427,
+            9654,
+            91,
+            9808
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6926.101,
+          "y": 100,
+          "z": 3232.107
+        }
+      ],
+      "image": "boboku.png"
+    },
+    {
+      "id": 4253,
+      "name": {
+        "en": "Kurmin",
+        "fr": "Kurmin",
+        "kr": "쿠르민"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6691.423,
+          "y": 120.054,
+          "z": 3619.134
+        }
+      ],
+      "image": "agent.png"
+    },
+    {
+      "id": 4284,
+      "name": {
+        "en": "[Psykeeper Master] Cylor",
+        "fr": "[Maître des Sorciers] Cylor",
+        "kr": "[사이키퍼 마스터]사일러"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3783.305,
+          "y": 59,
+          "z": 4484.463
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 4298,
+      "name": {
+        "en": "Hachal",
+        "fr": "Hachal",
+        "kr": "하칼"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6544.198,
+          "y": 114.6438,
+          "z": 3598.653
+        }
+      ],
+      "image": "almani.png"
+    },
+    {
+      "id": 4304,
+      "name": {
+        "en": "Teshar",
+        "fr": "Teshar",
+        "kr": "테사르"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7202.364,
+          "y": 100,
+          "z": 3228.752
+        }
+      ],
+      "image": "tina.png"
+    },
+    {
+      "id": 4345,
+      "name": {
+        "en": "[Santa] Atto",
+        "fr": "[Père Noël] Atto",
+        "kr": "[산타]아토"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 4383,
+      "name": {
+        "en": "[Dradpet Manager] Gornus",
+        "fr": "[Manager Dreadpet] Gornus",
+        "kr": "[드래드펫 관리자]고르누스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7453.871,
+          "y": 130.719,
+          "z": 3670.846
+        }
+      ],
+      "image": "unknown.png"
+    },
+    {
+      "id": 4390,
+      "name": {
+        "en": "[Psykeeper Wise-man] Cuarine",
+        "fr": "[Sage des Sorciers] Cuarine",
+        "kr": "[사이키퍼 현자]쿠아린"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7657.554,
+          "y": 161.6951,
+          "z": 4191.509
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 4458,
+      "name": {
+        "en": "[Billposter Guardian] Capafe",
+        "fr": "[Gardienne des Moines] Capafe",
+        "kr": "[빌포스터 수호자]카파페"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3339.107,
+          "y": 146.9169,
+          "z": 2068.671
+        }
+      ],
+      "image": "guard01.png"
+    },
+    {
+      "id": 4473,
+      "name": {
+        "en": "Phoho",
+        "fr": "Phoho",
+        "kr": "포호"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7204.204,
+          "y": 100,
+          "z": 3229.8
+        }
+      ],
+      "image": "bolpor.png"
+    },
+    {
+      "id": 4494,
+      "name": {
+        "en": "Ispim",
+        "fr": "Ispim",
+        "kr": "이스핌"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 4517,
+      "name": {
+        "en": "Chitller",
+        "fr": "Chiller",
+        "kr": "치틀러"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 4623,
+      "name": {
+        "en": "Losha",
+        "fr": "Losha",
+        "kr": "로샤"
+      },
+      "place": "foodstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Food",
+            "fr": "Aliments",
+            "kr": "음식점"
+          },
+          "items": [
+            5325,
+            9449,
+            2940,
+            5085,
+            5443,
+            542,
+            4388,
+            1124,
+            4493,
+            4683
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7172.419,
+          "y": 100,
+          "z": 3212.385
+        }
+      ],
+      "image": "losha.png"
+    },
+    {
+      "id": 4660,
+      "name": {
+        "en": "Andre",
+        "fr": "André",
+        "kr": "안드레"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 2991.348,
+          "y": 56.73067,
+          "z": 4063.505
+        }
+      ],
+      "image": "chitller.png"
+    },
+    {
+      "id": 4677,
+      "name": {
+        "en": "Lurif",
+        "fr": "Lurif",
+        "kr": "루리프"
+      },
+      "place": "questoffice",
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3841.457,
+          "y": 59,
+          "z": 4422.948
+        }
+      ],
+      "image": "agent.png"
+    },
+    {
+      "id": 4687,
+      "name": {
+        "en": "[Cleric] Tubearto",
+        "fr": "[Clerc] Tubearto",
+        "kr": "[신관] 투베라도"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 4739,
+      "name": {
+        "en": "[Ranger Master] Eliff",
+        "fr": "[Maître des Rangers] Eliff",
+        "kr": "[레인저 마스터]엘리프"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3791.939,
+          "y": 59,
+          "z": 4497.156
+        }
+      ],
+      "image": "marche.png"
+    },
+    {
+      "id": 4833,
+      "name": {
+        "en": "[Cleric] Hondurel",
+        "fr": "[Clerc] Hondurel",
+        "kr": "[신관] 혼두렐"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 4843,
+      "name": {
+        "en": "[Ringmaster Guardian] Lomboed",
+        "fr": "[Gardienne des Prêtres] Lomboed",
+        "kr": "[링마스터 수호자] 롬보에뜨"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 4869,
+      "name": {
+        "en": "[Darken Mayor]",
+        "fr": "[Maire de Darkon]",
+        "kr": "[다켄 시장]"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3831.632,
+          "y": 59.09999,
+          "z": 4457.587
+        }
+      ],
+      "image": "mayor.png"
+    },
+    {
+      "id": 5007,
+      "name": {
+        "en": "[Knight Guardian] Bonaper",
+        "fr": "[Gardienne des Chevaliers] Boneper",
+        "kr": "[나이트 수호자] 보네페르"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5048,
+      "name": {
+        "en": "[Madrigal Chorus] Mokomo",
+        "fr": "[Choeur de Madrigal] Mokomo",
+        "kr": "[마드리갈 합창단]모코모"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [],
+      "image": "losha.png"
+    },
+    {
+      "id": 5072,
+      "name": {
+        "en": "Colar",
+        "fr": "Colar",
+        "kr": "콜라르"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6133.405,
+          "y": 100,
+          "z": 4168.766
+        }
+      ],
+      "image": "bill.png"
+    },
+    {
+      "id": 5166,
+      "name": {
+        "en": "Dr. Estly",
+        "fr": "Dr. Estly",
+        "kr": "[Dr.]이스틀리"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7186.78,
+          "y": 156.1996,
+          "z": 4090.626
+        }
+      ],
+      "image": "rhine.png"
+    },
+    {
+      "id": 5202,
+      "name": {
+        "en": "Post Box",
+        "fr": "Boîte aux Lettres",
+        "kr": "우체통"
+      },
+      "menus": [
+        "post"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6956.824,
+          "y": 100,
+          "z": 3213.4
+        },
+        {
+          "world": 6063,
+          "x": 8461.915,
+          "y": 100,
+          "z": 3600.867
+        },
+        {
+          "world": 6063,
+          "x": 3833.489,
+          "y": 59,
+          "z": 4454.837
+        },
+        {
+          "world": 4839,
+          "x": 1254.965,
+          "y": 114.9316,
+          "z": 1347.845
+        }
+      ]
+    },
+    {
+      "id": 5208,
+      "name": {
+        "en": "Masa",
+        "fr": "Masa",
+        "kr": "마사"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5228,
+      "name": {
+        "en": "Mine",
+        "fr": "Mine",
+        "kr": "마인"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5237,
+      "name": {
+        "en": "[Assist Master] Maki",
+        "fr": "[Maître des Acolytes] Maki",
+        "kr": "[어시스트 마스터]마키"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6930.361,
+          "y": 100.3,
+          "z": 3324.302
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 5313,
+      "name": {
+        "en": "Tomba",
+        "fr": "Tomba",
+        "kr": "톰바"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7203.204,
+          "y": 100,
+          "z": 3231.362
+        }
+      ],
+      "image": "roocky.png"
+    },
+    {
+      "id": 5315,
+      "name": {
+        "en": "[Sage] Kimel",
+        "fr": "[Sage des Rangers] Kimel",
+        "kr": "[레인저 현자]키멜"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7636.031,
+          "y": 168.8396,
+          "z": 4227.36
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 5320,
+      "name": {
+        "en": "[Billposter Guardian] Capape",
+        "fr": "[Gardienne des Moines] Capape",
+        "kr": "[빌포스터 수호자] 카파페"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5321,
+      "name": {
+        "en": "Peardryad",
+        "fr": "Dryade du Poirier",
+        "kr": "가을이벤트NPC03"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5395,
+      "name": {
+        "en": "Roocky",
+        "fr": "Roocky",
+        "kr": "루키"
+      },
+      "place": "armorstore",
+      "menus": [
+        "dialog",
+        "trade",
+        "upgrade",
+        "safeupgrade",
+        "safeelementupgrade",
+        "attribute"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            5562,
+            50,
+            9872,
+            7149,
+            3887,
+            2380,
+            2391,
+            8040,
+            4375,
+            4022,
+            3682,
+            9721,
+            7309,
+            5155,
+            9933,
+            7914,
+            9387,
+            1560,
+            8245,
+            2701,
+            7964,
+            2677,
+            6863,
+            7276,
+            5748,
+            8729,
+            7810,
+            7132,
+            302,
+            2481,
+            310,
+            2939,
+            9665,
+            5298,
+            6677,
+            7563,
+            9956,
+            7368,
+            478,
+            1463,
+            3842,
+            4721,
+            4354,
+            6165,
+            5066,
+            1287,
+            3251,
+            2696
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            4772,
+            7386,
+            4286,
+            4127,
+            3285,
+            6092,
+            8136,
+            4373,
+            7568,
+            4649,
+            9539,
+            2282,
+            8373,
+            7910,
+            7202,
+            5488,
+            4314,
+            9357,
+            6366,
+            1455,
+            3451,
+            429,
+            7929,
+            5878,
+            5473,
+            1891,
+            6870,
+            4027,
+            1887,
+            4457,
+            9327,
+            7381,
+            2723,
+            540,
+            2928,
+            1511,
+            9462,
+            2290,
+            7928,
+            2458,
+            1425,
+            2851,
+            5548,
+            1590,
+            5030,
+            9396,
+            866,
+            8653
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            8133,
+            6977,
+            4691,
+            5281,
+            3969,
+            3051,
+            2046,
+            7812,
+            2523,
+            3529,
+            8129,
+            2343,
+            4934,
+            1854,
+            1672,
+            5020,
+            3345,
+            5323,
+            3276,
+            7579,
+            2576,
+            7085,
+            8684,
+            4682,
+            2092,
+            8824,
+            476,
+            2509,
+            5720,
+            1519,
+            1346,
+            4749,
+            8733,
+            93,
+            4222,
+            8272,
+            291,
+            1865,
+            7041,
+            4844,
+            5200,
+            3301,
+            326,
+            5352,
+            5010,
+            3705,
+            7177,
+            5439
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3742.708,
+          "y": 59,
+          "z": 4421.124
+        }
+      ],
+      "image": "roocky.png"
+    },
+    {
+      "id": 5532,
+      "name": {
+        "en": "Neidan",
+        "fr": "Neidan",
+        "kr": "네이든"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5553,
+      "name": {
+        "en": "Herney",
+        "fr": "Herney",
+        "kr": "헤르네이"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5561,
+      "name": {
+        "en": "[Knight Master] Karandur",
+        "fr": "[Maître des Chevaliers] Karandur",
+        "kr": "[나이트 마스터]카란두르"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3792.844,
+          "y": 59,
+          "z": 4482.567
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 5615,
+      "name": {
+        "en": "Kenny",
+        "fr": "Kenny",
+        "kr": "케니"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5617,
+      "name": {
+        "en": "Drian",
+        "fr": "Drian",
+        "kr": "드리안"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 2927,
+          "x": 829.0259,
+          "y": 85.00223,
+          "z": 966.9241
+        }
+      ],
+      "image": "keakoon.png"
+    },
+    {
+      "id": 5647,
+      "name": {
+        "en": "[High-Dwarpet] Hastan",
+        "fr": "[Grand Dwarpet] Hastan",
+        "kr": "[하이-드워펫]해스탄"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7002.028,
+          "y": 124.3954,
+          "z": 3894.994
+        }
+      ],
+      "image": "dwarpet.png"
+    },
+    {
+      "id": 5662,
+      "name": {
+        "en": "Dunkan",
+        "fr": "Dunkan",
+        "kr": "던칸"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5685,
+      "name": {
+        "en": "Iske",
+        "fr": "Iske",
+        "kr": "헤어 디자이너"
+      },
+      "menus": [
+        "dialog",
+        "hairshop"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6962.241,
+          "y": 100,
+          "z": 3348.191
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 5694,
+      "name": {
+        "en": "PiPi",
+        "fr": "Pipo",
+        "kr": "삐삐"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5701,
+      "name": {
+        "en": "[Knight Priest] Lobiet",
+        "fr": "[Doyenne des Chevaliers] Lobiet",
+        "kr": "[나이트 사제]로비에트"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3012.95,
+          "y": 93.49133,
+          "z": 2931.393
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 5726,
+      "name": {
+        "en": "[Acrobat Master] Pyre",
+        "fr": "[Maître des Acrobates] Pyre",
+        "kr": "[아크로뱃 마스터]피레"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3850.12,
+          "y": 59,
+          "z": 4425.958
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 5800,
+      "name": {
+        "en": "Noier",
+        "fr": "Noier",
+        "kr": "노이에"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6703.289,
+          "y": 135.9647,
+          "z": 3327.764
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 5831,
+      "name": {
+        "en": "[Sage] Radion",
+        "fr": "[Grand Sage] Radéon",
+        "kr": "[대현자] 라디온"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7640.476,
+          "y": 175.1198,
+          "z": 4254.254
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 5893,
+      "name": {
+        "en": "Leann",
+        "fr": "Bill",
+        "kr": "르엔"
+      },
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Accessories",
+            "fr": "Accessoires",
+            "kr": "패션상품"
+          },
+          "items": [
+            2231
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8478.097,
+          "y": 100,
+          "z": 3634.131
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 5926,
+      "name": {
+        "en": "[Psykeeper Guardian] Shaynip",
+        "fr": "[Gardienne des Sorciers] Shaynip",
+        "kr": "[사이키퍼 수호자] 샤이니프"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5934,
+      "name": {
+        "en": "[Madrigal Chorus] Monaco",
+        "fr": "[Choeur de Madrigal] Monako",
+        "kr": "[마드리갈 합창단]모나코"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [],
+      "image": "losha.png"
+    },
+    {
+      "id": 5937,
+      "name": {
+        "en": "Eoners",
+        "fr": "Eoners",
+        "kr": "어너스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7204.647,
+          "y": 100,
+          "z": 3226.729
+        }
+      ],
+      "image": "haven.png"
+    },
+    {
+      "id": 5955,
+      "name": {
+        "en": "Hans",
+        "fr": "Hans",
+        "kr": "한스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 5981,
+      "name": {
+        "en": "[Jester Master] Lorein",
+        "fr": "[Maître des Jesters] Lorein",
+        "kr": "[제스터 마스터]로레인"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3783.362,
+          "y": 59,
+          "z": 4488.74
+        }
+      ],
+      "image": "marche.png"
+    },
+    {
+      "id": 5983,
+      "name": {
+        "en": "Tina",
+        "fr": "Tina",
+        "kr": "티나"
+      },
+      "place": "flyingstation",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Broom",
+            "fr": "Balais",
+            "kr": "빗자루"
+          },
+          "items": [
+            8507,
+            2128,
+            3258,
+            7336
+          ]
+        },
+        {
+          "name": {
+            "en": "Board",
+            "fr": "Planches",
+            "kr": "보드"
+          },
+          "items": [
+            7182,
+            4482,
+            6333,
+            4715
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8412.976,
+          "y": 140.2489,
+          "z": 3974.41
+        }
+      ],
+      "image": "tina.png"
+    },
+    {
+      "id": 5986,
+      "name": {
+        "en": "Ispim",
+        "fr": "Ispim",
+        "kr": "이스핌"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7160.067,
+          "y": 100,
+          "z": 3221.458
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 6109,
+      "name": {
+        "en": "Nein",
+        "fr": "Nein",
+        "kr": "나인"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3947.286,
+          "y": 117.6512,
+          "z": 2748.429
+        }
+      ],
+      "image": "roocky.png"
+    },
+    {
+      "id": 6117,
+      "name": {
+        "en": "Masa",
+        "fr": "Masa",
+        "kr": "마사"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 6124,
+      "name": {
+        "en": "[Arena Manager] Lay",
+        "fr": "[Chef de l'Arène] Ray",
+        "kr": "[아레나 관리자] 레이"
+      },
+      "menus": [
+        "dialog",
+        "arenaenter"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6932.14,
+          "y": 100,
+          "z": 3259.181
+        },
+        {
+          "world": 6063,
+          "x": 8437.869,
+          "y": 100,
+          "z": 3616.031
+        },
+        {
+          "world": 6063,
+          "x": 3801.5,
+          "y": 59,
+          "z": 4448.122
+        }
+      ],
+      "image": "arena.png"
+    },
+    {
+      "id": 6159,
+      "name": {
+        "en": "[Magician Instructor] Lopaze",
+        "fr": "[Instructrice des Magiciens] Lopaze",
+        "kr": "[매지션 훈련 조교]로파즈"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8481.515,
+          "y": 100,
+          "z": 3810.405
+        }
+      ],
+      "image": "marche.png"
+    },
+    {
+      "id": 6167,
+      "name": {
+        "en": "Segho",
+        "fr": "Regho",
+        "kr": "세그호"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7644.777,
+          "y": 236.2854,
+          "z": 4349.111
+        }
+      ],
+      "image": "phacham.png"
+    },
+    {
+      "id": 6262,
+      "name": {
+        "en": "Kablloc",
+        "fr": "Kablloc",
+        "kr": "카블록"
+      },
+      "place": "weaponstore",
+      "menus": [
+        "dialog",
+        "trade",
+        "piercing",
+        "safepiercing",
+        "piercingremove",
+        "changeelem"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            6021,
+            714,
+            3157,
+            2608,
+            7657,
+            7577,
+            2459,
+            119,
+            5098,
+            8374,
+            8326,
+            9094,
+            7185,
+            2761,
+            4176,
+            3575
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            9936,
+            2715,
+            2320,
+            2036,
+            9050,
+            4926,
+            4856,
+            389,
+            3471,
+            197,
+            9906,
+            4558
+          ]
+        },
+        {
+          "name": {
+            "en": "Magician",
+            "fr": "Magicien",
+            "kr": "매지션"
+          },
+          "items": [
+            7642,
+            4663,
+            8975,
+            6019,
+            8546,
+            1142,
+            1467,
+            6269,
+            2537,
+            6343,
+            3388,
+            199
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            7339,
+            2930,
+            9507,
+            6929,
+            2571,
+            3418,
+            4109,
+            9633,
+            5213,
+            7700,
+            6880,
+            3369
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3239.983,
+          "y": 11.55173,
+          "z": 3417.698
+        }
+      ],
+      "image": "phacham.png"
+    },
+    {
+      "id": 6268,
+      "name": {
+        "en": "Shun",
+        "fr": "Shun",
+        "kr": "슌"
+      },
+      "place": "weaponstore",
+      "menus": [
+        "dialog",
+        "trade",
+        "changeelem"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            8382,
+            9697,
+            8256,
+            2842,
+            7725,
+            4913,
+            9788,
+            4877,
+            3531,
+            2116,
+            6713,
+            4092,
+            3940,
+            7159,
+            6073,
+            9648,
+            6939,
+            7520,
+            8350,
+            8706,
+            1757,
+            3043,
+            5249,
+            1902,
+            6070,
+            9643,
+            3444,
+            3805,
+            2184,
+            3223,
+            6021,
+            714,
+            3157,
+            2608,
+            7657,
+            7577,
+            2459,
+            119,
+            5098,
+            8374,
+            8326,
+            9094,
+            7185,
+            2761,
+            4176,
+            3575
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            2266,
+            7289,
+            3480,
+            1334,
+            6555,
+            8969,
+            4041,
+            1522,
+            1700,
+            8801,
+            9234,
+            4215,
+            6836,
+            6245,
+            7892,
+            9984,
+            9341,
+            5197,
+            3229,
+            2097,
+            1778,
+            254,
+            9936,
+            2715,
+            2320,
+            2036,
+            9050,
+            4926,
+            4856,
+            389,
+            3471,
+            197,
+            9906,
+            4558
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            5912,
+            412,
+            3186,
+            4358,
+            5427,
+            9654,
+            91,
+            9808,
+            217,
+            5919,
+            5117,
+            4467,
+            3567,
+            5691,
+            8446,
+            7439,
+            8075,
+            4167,
+            8220,
+            1677,
+            1173,
+            8496,
+            7339,
+            2930,
+            9507,
+            6929,
+            2571,
+            3418,
+            4109,
+            9633,
+            5213,
+            7700,
+            6880,
+            3369
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 4839,
+          "x": 1286.43,
+          "y": 115,
+          "z": 1365.532
+        }
+      ],
+      "image": "phacham.png"
+    },
+    {
+      "id": 6316,
+      "name": {
+        "en": "Jodan",
+        "fr": "Jodan",
+        "kr": "조단"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 6402,
+      "name": {
+        "en": "Janne",
+        "fr": "Janne",
+        "kr": "쟌느"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8536.5,
+          "y": 100,
+          "z": 3643.722
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 6452,
+      "name": {
+        "en": "Ghalade",
+        "fr": "Ghalade",
+        "kr": "갈라드"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7204.369,
+          "y": 100,
+          "z": 3227.884
+        }
+      ],
+      "image": "remine.png"
+    },
+    {
+      "id": 6459,
+      "name": {
+        "en": "[Magician Drillmaster] Wingyei",
+        "fr": "[Entraîneur des Magiciens] Winyei",
+        "kr": "[매지션 훈련교관]윙이"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8483.716,
+          "y": 100.6,
+          "z": 3810.268
+        }
+      ],
+      "image": "haven.png"
+    },
+    {
+      "id": 6507,
+      "name": {
+        "en": "[Cleric] Pasteil",
+        "fr": "[Clerc] Pasteil",
+        "kr": "[신관] 파스테일"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 6515,
+      "name": {
+        "en": "[Assist Drillmaster] Elic",
+        "fr": "[Entraîneur des Acolytes] Elic",
+        "kr": "[어시스트 훈련교관]엘릭"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7155.717,
+          "y": 99.99936,
+          "z": 3248.06
+        }
+      ],
+      "image": "chitller.png"
+    },
+    {
+      "id": 6576,
+      "name": {
+        "en": "[Elementor Priest] Condram",
+        "fr": "[Doyenne des Elémentalistes] Condram",
+        "kr": "[엘리멘터 사제]콘드람"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3959.777,
+          "y": 31.36854,
+          "z": 3510.136
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 6613,
+      "name": {
+        "en": "[MagicBox] Ancimys",
+        "fr": "[Coffre magique] Ancimys",
+        "kr": "[마법상자] 앙키미스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8638.007,
+          "y": 100,
+          "z": 3569.618
+        },
+        {
+          "world": 6063,
+          "x": 5370.744,
+          "y": 75,
+          "z": 3991.255
+        },
+        {
+          "world": 6063,
+          "x": 6955.456,
+          "y": 148.9669,
+          "z": 3848.429
+        }
+      ],
+      "image": "ancimys.png"
+    },
+    {
+      "id": 6746,
+      "name": {
+        "en": "Macus",
+        "fr": "Macus",
+        "kr": "마커스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 6774,
+      "name": {
+        "en": "Roji",
+        "fr": "Roji",
+        "kr": "로지"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 6851,
+      "name": {
+        "en": "Isruel",
+        "fr": "Isruel",
+        "kr": "이스루엘"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6937.835,
+          "y": 100,
+          "z": 3243.339
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 6878,
+      "name": {
+        "en": "Darkon Pang",
+        "fr": "Pang",
+        "kr": "다콘팡"
+      },
+      "place": "lodelight",
+      "menus": [
+        "dialog",
+        "lodelight"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 5511.584,
+          "y": 75.01719,
+          "z": 3887.567
+        }
+      ],
+      "image": "infopeng.png"
+    },
+    {
+      "id": 6938,
+      "name": {
+        "en": "Mule",
+        "fr": "Mule",
+        "kr": "뮬"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 6946,
+      "name": {
+        "en": "Card Master"
+      },
+      "menus": [
+        "dialog",
+        "upgradecard"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7130.349,
+          "y": 99.955,
+          "z": 3257.222
+        }
+      ],
+      "image": "dealer.png"
+    },
+    {
+      "id": 7019,
+      "name": {
+        "en": "[Rock Scissor Paper NPC] Demian",
+        "fr": "[Champion de Flyffoumi] Demian",
+        "kr": "[가위,바위,보 NPC]데미안"
+      },
+      "menus": [
+        "dialog",
+        "roshambo"
+      ],
+      "locations": []
+    },
+    {
+      "id": 7038,
+      "name": {
+        "en": "Locku",
+        "fr": "Locku",
+        "kr": "Locku"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8303.217,
+          "y": 100,
+          "z": 3850.522
+        }
+      ],
+      "image": "reonan.png"
+    },
+    {
+      "id": 7058,
+      "name": {
+        "en": "Ivil Dorry",
+        "fr": "Evil Dorry",
+        "kr": "이블도리"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 7068,
+      "name": {
+        "en": "Helgar",
+        "fr": "Leann",
+        "kr": "헬가르"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8449.088,
+          "y": 100,
+          "z": 3638.129
+        }
+      ],
+      "image": "roocky.png"
+    },
+    {
+      "id": 7086,
+      "name": {
+        "en": "Haven",
+        "fr": "Haven",
+        "kr": "헤븐"
+      },
+      "place": "magicstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Wand",
+            "fr": "Baguettes",
+            "kr": "완드"
+          },
+          "items": [
+            7642,
+            8975,
+            8546,
+            1467,
+            2537,
+            3388
+          ]
+        },
+        {
+          "name": {
+            "en": "Staff",
+            "fr": "Bâtons",
+            "kr": "스태프"
+          },
+          "items": [
+            4663,
+            6019,
+            1142,
+            6269,
+            6343,
+            199
+          ]
+        },
+        {
+          "name": {
+            "en": "Magic Tools",
+            "fr": "Elytres",
+            "kr": "마법용품"
+          },
+          "items": [
+            8815,
+            6617,
+            4602,
+            1101
+          ]
+        },
+        {
+          "name": {
+            "en": "Robe",
+            "fr": "Habits",
+            "kr": "방어구"
+          },
+          "items": [
+            5146,
+            8895,
+            9331,
+            4778,
+            3793,
+            5140,
+            1981,
+            7383,
+            994,
+            7926,
+            569,
+            7753,
+            9824,
+            21,
+            5430,
+            839,
+            5178,
+            5597,
+            203,
+            8672,
+            999,
+            5991,
+            2026,
+            6424,
+            8375,
+            1594,
+            3984,
+            418,
+            2702,
+            5589,
+            284,
+            3278,
+            3096,
+            6312,
+            4316,
+            2641,
+            795,
+            4709,
+            7509,
+            6712,
+            9152,
+            6773,
+            8200,
+            8116,
+            9269,
+            9759,
+            8012,
+            36
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3908.938,
+          "y": 59,
+          "z": 4376.03
+        }
+      ],
+      "image": "haven.png"
+    },
+    {
+      "id": 7146,
+      "name": {
+        "en": "Kazen",
+        "fr": "Kazen",
+        "kr": "카젠"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 2927,
+          "x": 1618.4,
+          "y": 84.35467,
+          "z": 746.3271
+        }
+      ],
+      "image": "dwarpet.png"
+    },
+    {
+      "id": 7203,
+      "name": {
+        "en": "Kerhi",
+        "fr": "Kerhi",
+        "kr": "케르히"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 7216,
+      "name": {
+        "en": "Saint Pang",
+        "fr": "Saint Pang",
+        "kr": "세인트팡"
+      },
+      "place": "lodelight",
+      "menus": [
+        "dialog",
+        "lodelight"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8437.323,
+          "y": 86.93954,
+          "z": 2679.39
+        }
+      ],
+      "image": "infopeng.png"
+    },
+    {
+      "id": 7236,
+      "name": {
+        "en": "[Pepoview] Brodeay",
+        "fr": "[Pepole] Brodeay",
+        "kr": "[페포뷰] 브로드에이"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8403.951,
+          "y": 99.99995,
+          "z": 3657.744
+        }
+      ],
+      "image": "phacham.png"
+    },
+    {
+      "id": 7290,
+      "name": {
+        "en": "Krinton",
+        "fr": "Krinton",
+        "kr": "크린튼"
+      },
+      "place": "shieldstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Shields",
+            "fr": "Boucliers",
+            "kr": "방패"
+          },
+          "items": [
+            582,
+            9102
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3742.223,
+          "y": 59,
+          "z": 4413.738
+        }
+      ],
+      "image": "roocky.png"
+    },
+    {
+      "id": 7297,
+      "name": {
+        "en": "[Elementor Wise-man] Cuzrill",
+        "fr": "[Sage des Elémentalistes] Cuzrill",
+        "kr": "[엘리멘터 현자]커즈릴"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7655.598,
+          "y": 161.675,
+          "z": 4191.633
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 7320,
+      "name": {
+        "en": "Guardian Master",
+        "fr": "Maître des Gardiens",
+        "kr": "마을 경비 대장"
+      },
+      "menus": [
+        "inputreward",
+        "showreward"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6964.169,
+          "y": 100,
+          "z": 3213.198
+        },
+        {
+          "world": 6063,
+          "x": 8466.55,
+          "y": 100,
+          "z": 3600.551
+        },
+        {
+          "world": 6063,
+          "x": 3832.34,
+          "y": 59.09998,
+          "z": 4455.801
+        }
+      ]
+    },
+    {
+      "id": 7326,
+      "name": {
+        "en": "Rooney",
+        "fr": "Rooney",
+        "kr": "루니"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 7356,
+      "name": {
+        "en": "Santa",
+        "fr": "Santa",
+        "kr": "산타클로스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 7454,
+      "name": {
+        "en": "Loyah",
+        "fr": "Loyah",
+        "kr": "로야"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7169.417,
+          "y": 100,
+          "z": 3208.961
+        }
+      ],
+      "image": "losha.png"
+    },
+    {
+      "id": 7480,
+      "name": {
+        "en": "Jinitte",
+        "fr": "Jinitte",
+        "kr": "지니뜨"
+      },
+      "place": "foodstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Food",
+            "fr": "Aliments",
+            "kr": "음식점"
+          },
+          "items": [
+            5325,
+            9449,
+            2940,
+            5085,
+            5443,
+            542,
+            4388,
+            1124,
+            4493,
+            4683
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3208.391,
+          "y": 11.05,
+          "z": 3437.291
+        }
+      ],
+      "image": "phacham.png"
+    },
+    {
+      "id": 7588,
+      "name": {
+        "en": "[Assist Instructor] Kidmen",
+        "fr": "[Instructrice des Acolytes] Kidmen",
+        "kr": "[어시스트 훈련 조교]키드먼"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7156.194,
+          "y": 100,
+          "z": 3250.17
+        }
+      ],
+      "image": "marche.png"
+    },
+    {
+      "id": 7596,
+      "name": {
+        "en": "Almani",
+        "fr": "Almani",
+        "kr": "알마니"
+      },
+      "place": "flyingstation",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Broom",
+            "fr": "Balais",
+            "kr": "빗자루"
+          },
+          "items": [
+            8507,
+            2128,
+            3258,
+            7336
+          ]
+        },
+        {
+          "name": {
+            "en": "Board",
+            "fr": "Planches",
+            "kr": "보드"
+          },
+          "items": [
+            7182,
+            4482,
+            6333,
+            4715
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3848.219,
+          "y": 140.6,
+          "z": 4460.36
+        }
+      ],
+      "image": "almani.png"
+    },
+    {
+      "id": 7624,
+      "name": {
+        "en": "[Pepoview] Hotse",
+        "fr": "[Pepole] Hotse",
+        "kr": "[페포뷰] 핫세"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8398.086,
+          "y": 100.1001,
+          "z": 3657.5
+        }
+      ],
+      "image": "haven.png"
+    },
+    {
+      "id": 7678,
+      "name": {
+        "en": "[Brother] Venken",
+        "fr": "[Soeur] Venken",
+        "kr": "[사제] 벤켄"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 7681,
+      "name": {
+        "en": "[Billposter Wise-man] Domek",
+        "fr": "[Sage des Moines] Domek",
+        "kr": "[빌포스터 현자]도멕"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7693.445,
+          "y": 170.7111,
+          "z": 4227.503
+        }
+      ],
+      "image": "martin.png"
+    },
+    {
+      "id": 7699,
+      "name": {
+        "en": "Luda",
+        "fr": "Luda",
+        "kr": "루다"
+      },
+      "place": "shieldstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Weapons",
+            "fr": "Armes",
+            "kr": "무기"
+          },
+          "items": [
+            3497,
+            8968,
+            2074,
+            4983,
+            8521,
+            2167,
+            4932
+          ]
+        },
+        {
+          "name": {
+            "en": "Armors",
+            "fr": "Armures",
+            "kr": "방어구"
+          },
+          "items": [
+            3314,
+            5535,
+            4750,
+            4491,
+            8753,
+            3738,
+            3975,
+            2462,
+            3999,
+            1452,
+            1725,
+            6040,
+            5011,
+            8195,
+            2670,
+            7542,
+            5219,
+            8481,
+            6232,
+            1259,
+            603,
+            9438
+          ]
+        },
+        {
+          "name": {
+            "en": "Shields",
+            "fr": "Boucliers",
+            "kr": "방패"
+          },
+          "items": [
+            5018,
+            8045,
+            7458,
+            8312,
+            5242
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6927.303,
+          "y": 100,
+          "z": 3236.48
+        }
+      ],
+      "image": "bulrox.png"
+    },
+    {
+      "id": 7708,
+      "name": {
+        "en": "Ryupang",
+        "fr": "Ryupang",
+        "kr": "류팡"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7214.24,
+          "y": 109.4975,
+          "z": 3673.458
+        }
+      ],
+      "image": "rhine.png"
+    },
+    {
+      "id": 7714,
+      "name": {
+        "en": "[Ringmaster Priest] Heedan",
+        "fr": "[Doyenne des Prêtres] Heedan",
+        "kr": "[링마스터 사제]히댄"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3273.105,
+          "y": 132,
+          "z": 4250.094
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 7722,
+      "name": {
+        "en": "Buff Pang",
+        "fr": "[Guide pour Débutants] Pang",
+        "kr": "버프 팡"
+      },
+      "menus": [
+        "dialog",
+        "buff"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6970.858,
+          "y": 100,
+          "z": 3215.084
+        },
+        {
+          "world": 6063,
+          "x": 6690.873,
+          "y": 113.467,
+          "z": 3606.347
+        },
+        {
+          "world": 6063,
+          "x": 7254.952,
+          "y": 106.706,
+          "z": 3657.967
+        },
+        {
+          "world": 6063,
+          "x": 6836.411,
+          "y": 102.014,
+          "z": 3803.898
+        },
+        {
+          "world": 6063,
+          "x": 7351.099,
+          "y": 155.903,
+          "z": 3926.167
+        },
+        {
+          "world": 6063,
+          "x": 7193.471,
+          "y": 155.562,
+          "z": 4104.44
+        },
+        {
+          "world": 6063,
+          "x": 7654.951,
+          "y": 158.991,
+          "z": 4167.755
+        },
+        {
+          "world": 6063,
+          "x": 8444.201,
+          "y": 100,
+          "z": 3602.293
+        },
+        {
+          "world": 6063,
+          "x": 8269.16,
+          "y": 98.433,
+          "z": 3182.524
+        },
+        {
+          "world": 6063,
+          "x": 8555.484,
+          "y": 100.543,
+          "z": 3109.624
+        },
+        {
+          "world": 6063,
+          "x": 8279.326,
+          "y": 81.118,
+          "z": 2810.451
+        },
+        {
+          "world": 6063,
+          "x": 8574.239,
+          "y": 99.73,
+          "z": 2139.628
+        },
+        {
+          "world": 6063,
+          "x": 7998.554,
+          "y": 78.092,
+          "z": 2666.944
+        }
+      ],
+      "image": "infopeng.png"
+    },
+    {
+      "id": 7726,
+      "name": {
+        "en": "Zaoma",
+        "fr": "Zaoma",
+        "kr": "자 오마"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6844.228,
+          "y": 182,
+          "z": 4099.208
+        }
+      ],
+      "image": "mawrang.png"
+    },
+    {
+      "id": 7739,
+      "name": {
+        "en": "Ismeralda",
+        "fr": "Ismeralda",
+        "kr": "이스메랄다"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7042.263,
+          "y": 99.49438,
+          "z": 3244.289
+        }
+      ],
+      "image": "juria.png"
+    },
+    {
+      "id": 7882,
+      "name": {
+        "en": "[Class-Info] Leily",
+        "fr": "[Intendant des Classes] Leily",
+        "kr": "[직업정보]레일리"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 7932,
+      "name": {
+        "en": "Demian",
+        "fr": "Damian",
+        "kr": "개구쟁이 데미안"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 7940,
+      "name": {
+        "en": "Bozman",
+        "fr": "Karin",
+        "kr": "보즈만"
+      },
+      "place": "armorstore",
+      "menus": [
+        "dialog",
+        "trade",
+        "upgrade",
+        "safeupgrade",
+        "safeelementupgrade",
+        "attribute"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            7259,
+            4445,
+            5539,
+            2310,
+            4429,
+            9536,
+            1654,
+            3042,
+            1138,
+            9593,
+            3249,
+            3342,
+            8257,
+            9664,
+            9352,
+            9283,
+            713,
+            4257
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            6032,
+            1628,
+            2460,
+            5068,
+            5581,
+            4325,
+            4003,
+            8003,
+            9404,
+            7854,
+            5409,
+            4971,
+            9702,
+            7519,
+            2548,
+            531,
+            4079,
+            6265
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            6250,
+            4009,
+            834,
+            5093,
+            3240,
+            9770,
+            2991,
+            5972,
+            9943,
+            3511,
+            7390,
+            2536,
+            6889,
+            7669,
+            9187,
+            6675,
+            1331,
+            6964
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8375.102,
+          "y": 100,
+          "z": 3673.197
+        }
+      ],
+      "image": "boboku.png"
+    },
+    {
+      "id": 7977,
+      "name": {
+        "en": "Stima",
+        "fr": "Stima",
+        "kr": "스티마"
+      },
+      "place": "weaponstore",
+      "menus": [
+        "dialog",
+        "trade"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            1757,
+            3043,
+            5249,
+            1902
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            1778,
+            254,
+            9936,
+            2715
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            1173,
+            8496,
+            7339,
+            2930
+          ]
+        },
+        {
+          "name": {
+            "en": "Magician",
+            "fr": "Magicien",
+            "kr": "매지션"
+          },
+          "items": [
+            6595,
+            2870,
+            7642,
+            4663
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 5572.357,
+          "y": 75.00009,
+          "z": 3897.209
+        }
+      ],
+      "image": "stima.png"
+    },
+    {
+      "id": 8137,
+      "name": {
+        "en": "[Psykeeper Priest] Pereb",
+        "fr": "[Doyenne des Sorciers] Pereb",
+        "kr": "[사이키퍼 사제]퍼에브"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 2522.289,
+          "y": 55,
+          "z": 4599.882
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 8217,
+      "name": {
+        "en": "Dr. Est",
+        "fr": "Dr. Est",
+        "kr": "[Dr.]이스트"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 5541.337,
+          "y": 71.61962,
+          "z": 4352.409
+        }
+      ],
+      "image": "rhine.png"
+    },
+    {
+      "id": 8227,
+      "name": {
+        "en": "[High-Dwarpet] Langdrong",
+        "fr": "[Grand Dwarpet] Langdrong",
+        "kr": "[하이-드워펫]랭드롱"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6998.488,
+          "y": 125.0495,
+          "z": 3897.479
+        }
+      ],
+      "image": "dwarpet.png"
+    },
+    {
+      "id": 8387,
+      "name": {
+        "en": "Nina",
+        "fr": "Nina",
+        "kr": "니나"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 8424,
+      "name": {
+        "en": "Maki",
+        "fr": "Maki",
+        "kr": "마키"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 8440,
+      "name": {
+        "en": "[Public Official of Flarine]",
+        "fr": "[Intendant de Flarine] Nicolas",
+        "kr": "[플라리네 공무원]"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6960.414,
+          "y": 100,
+          "z": 3204.269
+        }
+      ],
+      "image": "rhine.png"
+    },
+    {
+      "id": 8480,
+      "name": {
+        "en": "[Mayor of Saint City]",
+        "fr": "[Maire de Saincity]",
+        "kr": "[세인시티 시장]"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 8464.291,
+          "y": 100,
+          "z": 3651.486
+        }
+      ],
+      "image": "mayor.png"
+    },
+    {
+      "id": 8544,
+      "name": {
+        "en": "Firdryad",
+        "fr": "Dryade du Sapin",
+        "kr": "가을이벤트NPC01"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 8811,
+      "name": {
+        "en": "[Cleric] Ruenpharel",
+        "fr": "[Clerc] Ruenpharel",
+        "kr": "[신관] 루엔파렐"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 8863,
+      "name": {
+        "en": "[Mercenary Drillmaster] Mustang",
+        "fr": "[Entraîneur des Mercenaires] Mustang",
+        "kr": "[머서너리 훈련교관]머스탱"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7153.918,
+          "y": 99.99858,
+          "z": 3244.066
+        }
+      ],
+      "image": "chitller.png"
+    },
+    {
+      "id": 9103,
+      "name": {
+        "en": "Ollien",
+        "fr": "Ollien",
+        "kr": "올리엔"
+      },
+      "place": "publicoffice",
+      "menus": [
+        "dialog",
+        "bank",
+        "guildbank",
+        "guildrank",
+        "guildrankwar",
+        "guildrankinfo"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3829.779,
+          "y": 59.1,
+          "z": 4457.244
+        }
+      ],
+      "image": "ollien.png"
+    },
+    {
+      "id": 9227,
+      "name": {
+        "en": "[Acrobat Trainer] Tailer",
+        "fr": "[Instructrice des Acrobates] Tailer",
+        "kr": "[아크로뱃 훈련조교]타일러"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3931.982,
+          "y": 59.02063,
+          "z": 4389.937
+        }
+      ],
+      "image": "marche.png"
+    },
+    {
+      "id": 9273,
+      "name": {
+        "en": "Redy",
+        "fr": "Redy",
+        "kr": "레디"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 9303,
+      "name": {
+        "en": "Benku",
+        "fr": "Benku",
+        "kr": "벤쿠"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 9316,
+      "name": {
+        "en": "Paul",
+        "fr": "Paul",
+        "kr": "폴"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 9345,
+      "name": {
+        "en": "[Acrobat Trainer] Hent",
+        "fr": "[Entraîneur des Acrobates] Hent",
+        "kr": "[아크로뱃 훈련교관]헨트"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3931.297,
+          "y": 59.00727,
+          "z": 4385.881
+        }
+      ],
+      "image": "chitller.png"
+    },
+    {
+      "id": 9398,
+      "name": {
+        "en": "Priest",
+        "fr": "Clerc",
+        "kr": "목사"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 9416,
+      "name": {
+        "en": "Ancimys",
+        "fr": "Ancimys",
+        "kr": "앙키미스"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 7036.381,
+          "y": 118.3392,
+          "z": 3728.501
+        }
+      ],
+      "image": "ancimys.png"
+    },
+    {
+      "id": 9459,
+      "name": {
+        "en": "[Jester Priest] Homeit",
+        "fr": "[Doyenne des Jesters] Homeit",
+        "kr": "[제스터 사제]호메잇"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 2788.061,
+          "y": 191.9232,
+          "z": 2885.31
+        }
+      ],
+      "image": "marche.png"
+    },
+    {
+      "id": 9629,
+      "name": {
+        "en": "dodo",
+        "fr": "Dodo",
+        "kr": "도도"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 9650,
+      "name": {
+        "en": "[Santa] Buruto",
+        "fr": "[Père Noël] Buruto",
+        "kr": "[산타]부루토"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 9673,
+      "name": {
+        "en": "[BowlMerchant] Bowler",
+        "fr": "[Cuistot] Bowler",
+        "kr": "[보울상인]보울러"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 9560.335,
+          "y": 90.53459,
+          "z": 4020.011
+        }
+      ],
+      "image": "dwarpet.png"
+    },
+    {
+      "id": 9705,
+      "name": {
+        "en": "Chenbing",
+        "fr": "Chenbing",
+        "kr": "첸빙"
+      },
+      "place": "armorstore",
+      "menus": [
+        "dialog",
+        "trade",
+        "upgrade",
+        "safeupgrade",
+        "safeelementupgrade",
+        "attribute"
+      ],
+      "shop": [
+        {
+          "name": {
+            "en": "Mercenary",
+            "fr": "Mercenaire",
+            "kr": "머서너리"
+          },
+          "items": [
+            5562,
+            50,
+            9872,
+            7149,
+            3887,
+            2380,
+            2391,
+            8040,
+            4375,
+            4022,
+            3682,
+            9721,
+            7309,
+            5155,
+            9933,
+            7914,
+            9387,
+            1560,
+            8245,
+            2701,
+            7964,
+            2677,
+            6863,
+            7276,
+            5748,
+            8729,
+            7810,
+            7132,
+            302,
+            2481,
+            310,
+            2939,
+            9665,
+            5298,
+            6677,
+            7563,
+            9956,
+            7368,
+            478,
+            1463,
+            3842,
+            4721,
+            4354,
+            6165,
+            5066,
+            1287,
+            3251,
+            2696
+          ]
+        },
+        {
+          "name": {
+            "en": "Assist",
+            "fr": "Acolyte",
+            "kr": "어시스트"
+          },
+          "items": [
+            4772,
+            7386,
+            4286,
+            4127,
+            3285,
+            6092,
+            8136,
+            4373,
+            7568,
+            4649,
+            9539,
+            2282,
+            8373,
+            7910,
+            7202,
+            5488,
+            4314,
+            9357,
+            6366,
+            1455,
+            3451,
+            429,
+            7929,
+            5878,
+            5473,
+            1891,
+            6870,
+            4027,
+            1887,
+            4457,
+            9327,
+            7381,
+            2723,
+            540,
+            2928,
+            1511,
+            9462,
+            2290,
+            7928,
+            2458,
+            1425,
+            2851,
+            5548,
+            1590,
+            5030,
+            9396,
+            866,
+            8653
+          ]
+        },
+        {
+          "name": {
+            "en": "Magician",
+            "fr": "Magicien",
+            "kr": "매지션"
+          },
+          "items": [
+            5146,
+            8895,
+            9331,
+            4778,
+            3793,
+            5140,
+            1981,
+            7383,
+            994,
+            7926,
+            569,
+            7753,
+            9824,
+            21,
+            5430,
+            839,
+            5178,
+            5597,
+            203,
+            8672,
+            999,
+            5991,
+            2026,
+            6424,
+            8375,
+            1594,
+            3984,
+            418,
+            2702,
+            5589,
+            284,
+            3278,
+            3096,
+            6312,
+            4316,
+            2641,
+            795,
+            4709,
+            7509,
+            6712,
+            9152,
+            6773,
+            8200,
+            8116,
+            9269,
+            9759,
+            8012,
+            36
+          ]
+        },
+        {
+          "name": {
+            "en": "Acrobat",
+            "fr": "Acrobate",
+            "kr": "아크로뱃"
+          },
+          "items": [
+            8133,
+            6977,
+            4691,
+            5281,
+            3969,
+            3051,
+            2046,
+            7812,
+            2523,
+            3529,
+            8129,
+            2343,
+            4934,
+            1854,
+            1672,
+            5020,
+            3345,
+            5323,
+            3276,
+            7579,
+            2576,
+            7085,
+            8684,
+            4682,
+            2092,
+            8824,
+            476,
+            2509,
+            5720,
+            1519,
+            1346,
+            4749,
+            8733,
+            93,
+            4222,
+            8272,
+            291,
+            1865,
+            7041,
+            4844,
+            5200,
+            3301,
+            326,
+            5352,
+            5010,
+            3705,
+            7177,
+            5439
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3238.182,
+          "y": 11.65112,
+          "z": 3421.026
+        }
+      ],
+      "image": "phacham.png"
+    },
+    {
+      "id": 9778,
+      "name": {
+        "en": "[Psykeeper Guardian] Shyniff",
+        "fr": "[Gardienne des Sorciers] Shyniff",
+        "kr": "[사이키퍼 수호자]샤이니프"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3348.991,
+          "y": 146.9666,
+          "z": 2068.673
+        }
+      ],
+      "image": "guard01.png"
+    },
+    {
+      "id": 9779,
+      "name": {
+        "en": "Rankashu",
+        "fr": "Rankashu",
+        "kr": "랑카슈"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 5072.615,
+          "y": 55,
+          "z": 3962.481
+        }
+      ],
+      "image": "dwarpet.png"
+    },
+    {
+      "id": 9792,
+      "name": {
+        "en": "[Great Magician] Laola",
+        "fr": "[Archimage] Laola",
+        "kr": "[대매지션]라올라"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3007.869,
+          "y": 49.15271,
+          "z": 3967.413
+        }
+      ],
+      "image": "question.png"
+    },
+    {
+      "id": 9894,
+      "name": {
+        "en": "[Santa] Aramy",
+        "fr": "[Père Noël] Aramy",
+        "kr": "[산타]아라미"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 9896,
+      "name": {
+        "en": "[Dradpet Manager] Himadel",
+        "fr": "[Manager Dreadpet] Himadel",
+        "kr": "[드래드펫 관리자]히마델"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6835.973,
+          "y": 108.6157,
+          "z": 3132.558
+        }
+      ],
+      "image": "unknown.png"
+    },
+    {
+      "id": 9916,
+      "name": {
+        "en": "Ivil Tubby",
+        "fr": "Evil Tubby",
+        "kr": "이블뚜비"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 9919,
+      "name": {
+        "en": "[Mayor of Flarine]",
+        "fr": "[Maire de Flarine]",
+        "kr": "[플라리네 시장]"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 6960.027,
+          "y": 100,
+          "z": 3227.316
+        }
+      ],
+      "image": "mayor.png"
+    },
+    {
+      "id": 9948,
+      "name": {
+        "en": "Redy Junior",
+        "fr": "Redy Junior",
+        "kr": "레디 쥬니어"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    },
+    {
+      "id": 9985,
+      "name": {
+        "en": "[Ringmaster Guardian] Romvoette",
+        "fr": "[Gardienne des Prêtres] Romvoette",
+        "kr": "[링마스터 수호자]롬보에뜨"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": [
+        {
+          "world": 6063,
+          "x": 3339.078,
+          "y": 146.882,
+          "z": 2058.45
+        }
+      ],
+      "image": "guard01.png"
+    },
+    {
+      "id": 9991,
+      "name": {
+        "en": "Furan",
+        "fr": "Furan",
+        "kr": "후란"
+      },
+      "menus": [
+        "dialog"
+      ],
+      "locations": []
+    }
+  ]
+}
