@@ -1,0 +1,832 @@
+{
+  "worlds": [
+    {
+      "id": 615,
+      "name": {
+        "en": "Iblis Temple",
+        "fr": "Temple d'Ivillis",
+        "kr": "이블리스 던전 입구"
+      },
+      "width": 1536,
+      "height": 1536,
+      "tileName": "dusatemple",
+      "tileSize": 512,
+      "flying": false,
+      "pk": true,
+      "inDoor": true,
+      "revivalWorld": 6063,
+      "revivalKey": "saintmorning",
+      "places": [],
+      "lodestars": [
+        {
+          "key": "IBL",
+          "location": {
+            "world": 615,
+            "x": 1037.089,
+            "y": 6.681953,
+            "z": 534.9191
+          }
+        }
+      ],
+      "continents": []
+    },
+    {
+      "id": 1595,
+      "name": {
+        "en": "Big Muscle",
+        "fr": "Big Musclor",
+        "kr": "빅머슬"
+      },
+      "width": 512,
+      "height": 512,
+      "tileName": "dumuscle",
+      "tileSize": 512,
+      "flying": false,
+      "pk": false,
+      "inDoor": true,
+      "places": [],
+      "lodestars": [
+        {
+          "key": "boss1",
+          "location": {
+            "world": 1595,
+            "x": 262.232,
+            "y": 110,
+            "z": 145.2427
+          }
+        }
+      ],
+      "continents": []
+    },
+    {
+      "id": 1873,
+      "name": {
+        "en": "Krrr",
+        "fr": "Krrr",
+        "kr": "크르릉"
+      },
+      "width": 512,
+      "height": 512,
+      "tileName": "dukrr",
+      "tileSize": 512,
+      "flying": false,
+      "pk": false,
+      "inDoor": true,
+      "places": [],
+      "lodestars": [
+        {
+          "key": "boss2",
+          "location": {
+            "world": 1873,
+            "x": 272.2559,
+            "y": 150,
+            "z": 90.09655
+          }
+        }
+      ],
+      "continents": []
+    },
+    {
+      "id": 2927,
+      "name": {
+        "en": "Dekane Mine",
+        "fr": "Mine de Dekanes",
+        "kr": "데카네스 광산"
+      },
+      "width": 2560,
+      "height": 1536,
+      "tileName": "dudadk",
+      "tileSize": 512,
+      "flying": false,
+      "pk": true,
+      "inDoor": true,
+      "revivalWorld": 6063,
+      "revivalKey": "darkon",
+      "places": [],
+      "lodestars": [
+        {
+          "key": "boss_meteo",
+          "location": {
+            "world": 2927,
+            "x": 1297.599,
+            "y": 80,
+            "z": 614.1747
+          }
+        }
+      ],
+      "continents": []
+    },
+    {
+      "id": 3171,
+      "name": {
+        "en": "Unknown",
+        "fr": "Inconnu",
+        "kr": "언노운"
+      },
+      "width": 512,
+      "height": 512,
+      "tileName": "wdevent",
+      "tileSize": 512,
+      "flying": false,
+      "pk": false,
+      "inDoor": false,
+      "revivalWorld": 6063,
+      "revivalKey": "darkon",
+      "places": [],
+      "lodestars": [],
+      "continents": []
+    },
+    {
+      "id": 4015,
+      "name": {
+        "en": "Mars Dungeon",
+        "fr": "Mine de Mas",
+        "kr": "마스 동굴"
+      },
+      "width": 1536,
+      "height": 1536,
+      "tileName": "duflmas",
+      "tileSize": 512,
+      "flying": false,
+      "pk": true,
+      "inDoor": true,
+      "revivalWorld": 6063,
+      "revivalKey": "flaris",
+      "places": [],
+      "lodestars": [],
+      "continents": []
+    },
+    {
+      "id": 4839,
+      "name": {
+        "en": "Kebaras",
+        "fr": "Kebaras",
+        "kr": "케바라스"
+      },
+      "width": 2560,
+      "height": 2560,
+      "tileName": "wdkebaras",
+      "tileSize": 512,
+      "flying": false,
+      "pk": false,
+      "inDoor": false,
+      "revivalWorld": 6063,
+      "revivalKey": "flaris",
+      "places": [
+        {
+          "type": "warpzone",
+          "location": {
+            "world": 4839,
+            "x": 790.5599,
+            "y": 194.3694,
+            "z": 833.1737
+          }
+        },
+        {
+          "type": "warpzone",
+          "location": {
+            "world": 4839,
+            "x": 1804.397,
+            "y": 175.1785,
+            "z": 1464.146
+          }
+        },
+        {
+          "type": "warpzone",
+          "location": {
+            "world": 4839,
+            "x": 1230.538,
+            "y": 191.1096,
+            "z": 1816.139
+          }
+        }
+      ],
+      "lodestars": [
+        {
+          "key": "kebaras",
+          "location": {
+            "world": 4839,
+            "x": 1264.564,
+            "y": 115,
+            "z": 1351.486
+          }
+        }
+      ],
+      "continents": []
+    },
+    {
+      "id": 6063,
+      "name": {
+        "en": "Madrigal",
+        "fr": "Madrigal",
+        "kr": "마드리갈"
+      },
+      "width": 10752,
+      "height": 5632,
+      "tileName": "wdmadrigal",
+      "tileSize": 512,
+      "flying": true,
+      "pk": true,
+      "inDoor": false,
+      "places": [
+        {
+          "type": "dungeon",
+          "location": {
+            "world": 6063,
+            "x": 8633.538,
+            "y": 87.38942,
+            "z": 2158.926
+          }
+        },
+        {
+          "type": "dungeon",
+          "location": {
+            "world": 6063,
+            "x": 5076.224,
+            "y": 55.18182,
+            "z": 3986.144
+          }
+        },
+        {
+          "type": "dungeon",
+          "location": {
+            "world": 6063,
+            "x": 7621.728,
+            "y": 155.1325,
+            "z": 4280.305
+          }
+        },
+        {
+          "type": "lodestar",
+          "location": {
+            "world": 6063,
+            "x": 8464.894,
+            "y": 100,
+            "z": 3633.149
+          }
+        },
+        {
+          "type": "lodestar",
+          "location": {
+            "world": 6063,
+            "x": 6960.199,
+            "y": 100,
+            "z": 3327.85
+          }
+        },
+        {
+          "type": "lodestar",
+          "location": {
+            "world": 6063,
+            "x": 3792.589,
+            "y": 59,
+            "z": 4456.377
+          }
+        }
+      ],
+      "lodestars": [
+        {
+          "key": "flaris",
+          "location": {
+            "world": 6063,
+            "x": 6968.385,
+            "y": 100,
+            "z": 3328.863
+          }
+        },
+        {
+          "key": "saintmorning",
+          "location": {
+            "world": 6063,
+            "x": 8470.578,
+            "y": 100,
+            "z": 3635.788
+          }
+        },
+        {
+          "key": "darkon",
+          "location": {
+            "world": 6063,
+            "x": 3808.401,
+            "y": 59,
+            "z": 4455.151
+          }
+        }
+      ],
+      "continents": [
+        {
+          "name": {
+            "en": "Flaris",
+            "fr": "Flaris",
+            "kr": "플라리스"
+          },
+          "town": false,
+          "polygon": [
+            {
+              "x": 6159,
+              "z": 3407
+            },
+            {
+              "x": 6350,
+              "z": 3825
+            },
+            {
+              "x": 6736,
+              "z": 4649
+            },
+            {
+              "x": 7246,
+              "z": 4570
+            },
+            {
+              "x": 8258,
+              "z": 5022
+            },
+            {
+              "x": 8213,
+              "z": 4367
+            },
+            {
+              "x": 8021,
+              "z": 4037
+            },
+            {
+              "x": 8017,
+              "z": 3496
+            },
+            {
+              "x": 7245,
+              "z": 2685
+            },
+            {
+              "x": 6783,
+              "z": 2631
+            },
+            {
+              "x": 6366,
+              "z": 2922
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Saint Morning",
+            "fr": "Saint Morning",
+            "kr": "세인트모닝"
+          },
+          "town": false,
+          "polygon": [
+            {
+              "x": 7253,
+              "z": 2684
+            },
+            {
+              "x": 8023,
+              "z": 3496
+            },
+            {
+              "x": 8029,
+              "z": 4039
+            },
+            {
+              "x": 8217,
+              "z": 4365
+            },
+            {
+              "x": 8609,
+              "z": 4187
+            },
+            {
+              "x": 9489,
+              "z": 3047
+            },
+            {
+              "x": 9289,
+              "z": 2130
+            },
+            {
+              "x": 8765,
+              "z": 1615
+            },
+            {
+              "x": 7855,
+              "z": 1554
+            },
+            {
+              "x": 7506,
+              "z": 1870
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Garden of Rhisis",
+            "fr": "Jardin de Rhisis",
+            "kr": "리시스의 정원"
+          },
+          "town": false,
+          "polygon": [
+            {
+              "x": 9123,
+              "z": 3339
+            },
+            {
+              "x": 8922,
+              "z": 3740
+            },
+            {
+              "x": 8607,
+              "z": 4127
+            },
+            {
+              "x": 8285,
+              "z": 4397
+            },
+            {
+              "x": 8316,
+              "z": 4748
+            },
+            {
+              "x": 8833,
+              "z": 4762
+            },
+            {
+              "x": 9612,
+              "z": 4992
+            },
+            {
+              "x": 10436,
+              "z": 4396
+            },
+            {
+              "x": 9441,
+              "z": 3171
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Darkon 1, 2",
+            "fr": "Darkon 1, 2",
+            "kr": "다콘제1,2지구"
+          },
+          "town": false,
+          "polygon": [
+            {
+              "x": 4858,
+              "z": 3200
+            },
+            {
+              "x": 4561,
+              "z": 3613
+            },
+            {
+              "x": 4051,
+              "z": 3835
+            },
+            {
+              "x": 3796,
+              "z": 3790
+            },
+            {
+              "x": 3574,
+              "z": 4200
+            },
+            {
+              "x": 3455,
+              "z": 4479
+            },
+            {
+              "x": 3072,
+              "z": 4563
+            },
+            {
+              "x": 2833,
+              "z": 5237
+            },
+            {
+              "x": 3572,
+              "z": 5185
+            },
+            {
+              "x": 4863,
+              "z": 4778
+            },
+            {
+              "x": 6756,
+              "z": 4875
+            },
+            {
+              "x": 6558,
+              "z": 4367
+            },
+            {
+              "x": 6387,
+              "z": 3826
+            },
+            {
+              "x": 6102,
+              "z": 3298
+            },
+            {
+              "x": 5729,
+              "z": 3038
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Darkon 3",
+            "fr": "Darkon 3",
+            "kr": "다콘3"
+          },
+          "town": false,
+          "polygon": [
+            {
+              "x": 2834,
+              "z": 5241
+            },
+            {
+              "x": 3069,
+              "z": 4562
+            },
+            {
+              "x": 3451,
+              "z": 4476
+            },
+            {
+              "x": 3567,
+              "z": 4196
+            },
+            {
+              "x": 3792,
+              "z": 3791
+            },
+            {
+              "x": 4049,
+              "z": 3736
+            },
+            {
+              "x": 4555,
+              "z": 3615
+            },
+            {
+              "x": 4500,
+              "z": 2775
+            },
+            {
+              "x": 3395,
+              "z": 1291
+            },
+            {
+              "x": 1291,
+              "z": 2425
+            },
+            {
+              "x": 1867,
+              "z": 3867
+            },
+            {
+              "x": 1946,
+              "z": 4694
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Darken",
+            "fr": "Darkon",
+            "kr": "다켄"
+          },
+          "town": true,
+          "polygon": [
+            {
+              "x": 3693,
+              "z": 4526
+            },
+            {
+              "x": 3722,
+              "z": 4555
+            },
+            {
+              "x": 3812,
+              "z": 4618
+            },
+            {
+              "x": 3842,
+              "z": 4610
+            },
+            {
+              "x": 4020,
+              "z": 4451
+            },
+            {
+              "x": 4021,
+              "z": 4416
+            },
+            {
+              "x": 3909,
+              "z": 4300
+            },
+            {
+              "x": 3872,
+              "z": 4296
+            },
+            {
+              "x": 3757,
+              "z": 4320
+            },
+            {
+              "x": 3690,
+              "z": 4399
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Flarine",
+            "fr": "Flaris",
+            "kr": "플라리네"
+          },
+          "town": true,
+          "polygon": [
+            {
+              "x": 6916,
+              "z": 3383
+            },
+            {
+              "x": 6916,
+              "z": 3289
+            },
+            {
+              "x": 6868,
+              "z": 3289
+            },
+            {
+              "x": 6869,
+              "z": 3183
+            },
+            {
+              "x": 7071,
+              "z": 3183
+            },
+            {
+              "x": 7071,
+              "z": 3169
+            },
+            {
+              "x": 7239,
+              "z": 3167
+            },
+            {
+              "x": 7241,
+              "z": 3286
+            },
+            {
+              "x": 7005,
+              "z": 3288
+            },
+            {
+              "x": 7003,
+              "z": 3383
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Saint City",
+            "fr": "Saincity",
+            "kr": "세인트모닝"
+          },
+          "town": true,
+          "polygon": [
+            {
+              "x": 8603,
+              "z": 3532
+            },
+            {
+              "x": 8384,
+              "z": 3533
+            },
+            {
+              "x": 8229,
+              "z": 3691
+            },
+            {
+              "x": 8230,
+              "z": 3838
+            },
+            {
+              "x": 8309,
+              "z": 3836
+            },
+            {
+              "x": 8313,
+              "z": 4114
+            },
+            {
+              "x": 8436,
+              "z": 4108
+            },
+            {
+              "x": 8534,
+              "z": 4009
+            },
+            {
+              "x": 8530,
+              "z": 3754
+            },
+            {
+              "x": 8603,
+              "z": 3682
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7240,
+      "name": {
+        "en": "Guild Siege"
+      },
+      "width": 512,
+      "height": 512,
+      "tileName": "wdguildwar",
+      "tileSize": 512,
+      "flying": false,
+      "pk": true,
+      "inDoor": false,
+      "places": [],
+      "lodestars": [
+        {
+          "key": "",
+          "location": {
+            "world": 7240,
+            "x": 306.2277,
+            "y": 96.20755,
+            "z": 190.4229
+          }
+        }
+      ],
+      "continents": []
+    },
+    {
+      "id": 7782,
+      "name": {
+        "en": "Mushmoot",
+        "fr": "Mushmoot",
+        "kr": "머쉬무트"
+      },
+      "width": 512,
+      "height": 512,
+      "tileName": "dubear",
+      "tileSize": 512,
+      "flying": false,
+      "pk": false,
+      "inDoor": true,
+      "places": [],
+      "lodestars": [
+        {
+          "key": "boss3",
+          "location": {
+            "world": 7782,
+            "x": 136.615,
+            "y": 128.4654,
+            "z": 357.596
+          }
+        }
+      ],
+      "continents": []
+    },
+    {
+      "id": 8346,
+      "name": {
+        "en": "Iblis Leanes",
+        "fr": "Ivillis Leanes",
+        "kr": "이블리네스"
+      },
+      "width": 1024,
+      "height": 1024,
+      "tileName": "dusatempleboss",
+      "tileSize": 512,
+      "flying": false,
+      "pk": false,
+      "inDoor": true,
+      "revivalWorld": 6063,
+      "revivalKey": "saintmorning",
+      "places": [],
+      "lodestars": [
+        {
+          "key": "IBLBOSS",
+          "location": {
+            "world": 8346,
+            "x": 415.1415,
+            "y": 2,
+            "z": 418.6448
+          }
+        }
+      ],
+      "continents": []
+    }
+  ]
+}
