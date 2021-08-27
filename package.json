@@ -6,7 +6,8 @@
   "scripts": {
     "import": "babel-node import",
     "import-classes": "babel-node scripts/import-classes",
-    "import-npcs": "babel-node scripts/import-npcs"
+    "import-npcs": "babel-node scripts/import-npcs",
+    "import-worlds": "babel-node scripts/import-worlds"
   },
   "repository": {
     "type": "git",
