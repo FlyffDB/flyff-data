@@ -2,6 +2,7 @@ import { importClasses, importMonsters, importNPCs, importWorlds } from './scrip
 
 const main = async () => {
   await importClasses();
+  await importItems();
   await importMonsters();
   await importNPCs();
   await importWorlds();

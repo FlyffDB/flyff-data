@@ -5,6 +5,7 @@ import importWorlds from './import-worlds';
 
 export {
   importClasses,
+  importItems,
   importMonsters,
   importNPCs,
   importWorlds
