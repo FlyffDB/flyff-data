@@ -1,4 +1,4 @@
-import { importClasses, importEquipsets, importItems, importMonsters, importNPCs, importWorlds } from './scripts';
+import { importClasses, importEquipsets, importItems, importMonsters, importNPCs, importSkills, importWorlds } from './scripts';
 
 const main = async () => {
   await importClasses();
@@ -6,6 +6,7 @@ const main = async () => {
   await importItems();
   await importMonsters();
   await importNPCs();
+  await importSkills();
   await importWorlds();
 }
 

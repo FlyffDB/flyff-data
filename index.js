@@ -12,6 +12,7 @@ const equipsets = db.get('equipsets');
 const items = db.get('items');
 const monsters = db.get('monsters');
 const npcs = db.get('npcs');
+const skills = db.get('skills');
 const worlds = db.get('worlds');
 
 module.exports = {
@@ -20,5 +21,6 @@ module.exports = {
   items,
   monsters,
   npcs,
+  skills,
   worlds
 }

@@ -10,6 +10,7 @@
     "import-items": "babel-node scripts/import-items",
     "import-monsters": "babel-node scripts/import-monsters",
     "import-npcs": "babel-node scripts/import-npcs",
+    "import-skills": "babel-node scripts/import-skills",
     "import-worlds": "babel-node scripts/import-worlds"
   },
   "repository": {
