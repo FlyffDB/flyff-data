@@ -6,6 +6,7 @@
   "scripts": {
     "import": "babel-node import",
     "import-classes": "babel-node scripts/import-classes",
+    "import-monsters": "babel-node scripts/import-monsters",
     "import-npcs": "babel-node scripts/import-npcs",
     "import-worlds": "babel-node scripts/import-worlds"
   },

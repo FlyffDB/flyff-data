@@ -1,18 +1,14 @@
 const low = require('lowdb')
 const FileSync = require('lowdb/adapters/FileSync')
-import { getApi } from '../lib';
+import { getApiData } from '../lib';
 
 const adapter = new FileSync('data/class.json')
 const db = low(adapter)
 
 const importClasses = async () => {
   console.log("Importing class data...")
-  // Since there are only a few classes we can query them all at once
-  const { data: classIdsResponse } = await getApi('class');
-  // Convert response into classId param
-  const classIds = classIdsResponse.reduce((acc, current) => acc += `,${current}`);
-  const { data: classes } = await getApi(`class/${classIds}`);
-
+  // Get class data in chunks of 500
+  const classes = await getApiData('class', 500);
   db.set('classes', classes).write();
   console.log(`Imported ${classes.length} classes successfully`);
 }

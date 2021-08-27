@@ -1,18 +1,14 @@
 const low = require('lowdb')
 const FileSync = require('lowdb/adapters/FileSync')
-import { getApi } from '../lib';
+import { getApiData } from '../lib';
 
 const adapter = new FileSync('data/world.json')
 const db = low(adapter)
 
 const importWorlds = async () => {
   console.log("Importing world data...")
-  // Since there are only a few worlds we can query them all at once
-  const { data: worldIdsResponse } = await getApi('world');
-  // Convert response into worldId param
-  const worldIds = worldIdsResponse.reduce((acc, current) => acc += `,${current}`);
-  const { data: worlds } = await getApi(`world/${worldIds}`);
-
+  // Get world data in chunks of 500
+  const worlds = await getApiData('world', 500);
   db.set('worlds', worlds).write();
   console.log(`Imported ${worlds.length} worlds successfully`);
 }
